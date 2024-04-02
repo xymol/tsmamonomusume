@@ -351,7 +351,6 @@ var $plugins =
       "ImageMovePixel": "10\r"
     }
   }
-];
 {
   "name":"UCHU_MobileOperation",
     "status":true,
@@ -392,5 +391,6 @@ var $plugins =
         "--!need AnalogMove.js!--":"",
         "Analog Move":"false",
         "Analog Sensitivity":"1.8"
+      }
   }
-},
+];
