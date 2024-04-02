@@ -1,0 +1,1884 @@
+[
+	null,
+	{
+		"id": 1,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "yusha",
+		"classId": 1,
+		"equips": [
+			1,
+			0,
+			0,
+			3,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "来到了一个传说中有宝藏的岛屿的年轻人。\n为了偿还债务，他努力着。"
+	},
+	{
+		"id": 2,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "maidelfneko",
+		"classId": 2,
+		"equips": [
+			0,
+			0,
+			0,
+			5,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 5,
+		"maxLevel": 99,
+		"name": "米娜",
+		"nickname": "",
+		"note": "",
+		"profile": "通过交换魔法，清彦变成了猫娘。\n『她』会一辈子都是这样吗……？（废案）"
+	},
+	{
+		"id": 3,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "$kyuketukiatamanashi",
+		"classId": 3,
+		"equips": [
+			0,
+			0,
+			0,
+			6,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			}
+		],
+		"initialLevel": 35,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "被吸血鬼咬伤，变成了她妹妹的清彦。\n对于被渐渐改变的自己，还能保持住『男性』吗？"
+	},
+	{
+		"id": 4,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "matome1",
+		"classId": 4,
+		"equips": [
+			0,
+			0,
+			0,
+			7,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "被帮助的精灵夺取了身体的清彦。\n如果不能再夺回来，就会一辈子这样了。"
+	},
+	{
+		"id": 5,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "matome1",
+		"classId": 5,
+		"equips": [
+			0,
+			0,
+			0,
+			7,
+			9
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			}
+		],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "成为了『清彦』的奴隶。\n虽然下定决心总有一天会回来，但……？"
+	},
+	{
+		"id": 6,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "matome1",
+		"classId": 6,
+		"equips": [
+			0,
+			0,
+			0,
+			8,
+			9
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			}
+		],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "成为了『清彦』的奴隶。\n虽然下定决心总有一天会回来，但……？"
+	},
+	{
+		"id": 7,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 8,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "aruratoharpy",
+		"classId": 25,
+		"equips": [
+			1,
+			0,
+			0,
+			3,
+			14
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "被爱娜温的攻击击中头部。\n对自己发生了什么，还不能理解。"
+	},
+	{
+		"id": 9,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "aruratoharpy",
+		"classId": 26,
+		"equips": [
+			0,
+			0,
+			0,
+			15,
+			14
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "不仅变成了女性，身体颜色也瞬间改变。\n对发生了什么还感到困惑。"
+	},
+	{
+		"id": 10,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "aruratoharpy",
+		"classId": 27,
+		"equips": [
+			6,
+			0,
+			0,
+			16,
+			14
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "球茎生长，包裹住了她的下半身。\n对迅速变化的身体感到困惑。"
+	},
+	{
+		"id": 11,
+		"battlerName": "",
+		"characterIndex": 3,
+		"characterName": "aruratoharpy",
+		"classId": 28,
+		"equips": [
+			7,
+			0,
+			0,
+			16,
+			14
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			}
+		],
+		"initialLevel": 50,
+		"maxLevel": 99,
+		"name": "爱娜温",
+		"nickname": "",
+		"note": "",
+		"profile": "完全变成了爱娜温的清彦。\n对成为爱娜温感到幸福。"
+	},
+	{
+		"id": 12,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 13,
+		"battlerName": "",
+		"characterIndex": 5,
+		"characterName": "aruratoharpy",
+		"classId": 11,
+		"equips": [
+			15,
+			0,
+			0,
+			39,
+			40
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			}
+		],
+		"initialLevel": 20,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "<FCNoShadow>",
+		"profile": "因神秘宝藏的力量，清彦变成了哈比。\n白色的哈比会与黑色的哈比交配，然后生下孩子。"
+	},
+	{
+		"id": 14,
+		"battlerName": "",
+		"characterIndex": 6,
+		"characterName": "aruratoharpy",
+		"classId": 12,
+		"equips": [
+			15,
+			0,
+			0,
+			39,
+			40
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			}
+		],
+		"initialLevel": 20,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "与黑色哈比交配并怀孕的清彦。\n是否能忍受逐渐弥漫的『母性』？"
+	},
+	{
+		"id": 15,
+		"battlerName": "",
+		"characterIndex": 6,
+		"characterName": "aruratoharpy",
+		"classId": 13,
+		"equips": [
+			15,
+			0,
+			0,
+			39,
+			40
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			}
+		],
+		"initialLevel": 20,
+		"maxLevel": 99,
+		"name": "白哈比",
+		"nickname": "",
+		"note": "",
+		"profile": "想要生孩子，养育。\n一个内心变得如此的母亲应该采取什么行动。"
+	},
+	{
+		"id": 16,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 17,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 18,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "ginkitune",
+		"classId": 15,
+		"equips": [
+			0,
+			0,
+			0,
+			12,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 15,
+		"maxLevel": 99,
+		"name": "绿色男子",
+		"nickname": "",
+		"note": "",
+		"profile": "寻找『传说中的蔬菜种子』的年轻人。\n是个体贴的好男人。"
+	},
+	{
+		"id": 19,
+		"battlerName": "",
+		"characterIndex": 6,
+		"characterName": "kyuketu",
+		"classId": 22,
+		"equips": [
+			2,
+			0,
+			0,
+			11,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 20,
+		"maxLevel": 99,
+		"name": "男冒险家",
+		"nickname": "",
+		"note": "",
+		"profile": "听说这个岛上有宝藏的冒险家。\n似乎能力不如清彦。"
+	},
+	{
+		"id": 20,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 21,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "osakanasantomizugi",
+		"classId": 30,
+		"equips": [
+			1,
+			0,
+			0,
+			3,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "惊讶于能在水下呼吸……。\n但现在必须寻找离开这里的方法。"
+	},
+	{
+		"id": 22,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "osakanasantomizugi",
+		"classId": 31,
+		"equips": [
+			1,
+			0,
+			0,
+			3,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "突然，身体变得更像女性。\n衣服松松垮垮的，很难动。"
+	},
+	{
+		"id": 23,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "osakanasantomizugi",
+		"classId": 32,
+		"equips": [
+			8,
+			0,
+			0,
+			21,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "完全变成了女性。\n装备大小不合适，根本就只是累赘。"
+	},
+	{
+		"id": 24,
+		"battlerName": "",
+		"characterIndex": 3,
+		"characterName": "osakanasantomizugi",
+		"classId": 33,
+		"equips": [
+			0,
+			0,
+			0,
+			22,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "沉重的铠甲脱掉后，变得更容易活动了，\n但如今已无法隐藏兴奋之情。"
+	},
+	{
+		"id": 25,
+		"battlerName": "",
+		"characterIndex": 4,
+		"characterName": "osakanasantomizugi",
+		"classId": 34,
+		"equips": [
+			0,
+			0,
+			19,
+			23,
+			19
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "耳朵变成了鳍，左臂也变色，\n下半身还长出了鳞片。『她』为自己的命运而流泪。"
+	},
+	{
+		"id": 26,
+		"battlerName": "",
+		"characterIndex": 5,
+		"characterName": "osakanasantomizugi",
+		"classId": 35,
+		"equips": [
+			0,
+			0,
+			19,
+			23,
+			20
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "变成了传说中的魔物娘『人鱼』的清彦。\n据说她的歌声能够吸引听者……？"
+	},
+	{
+		"id": 27,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "inmatoningyomecchakawaii",
+		"classId": 36,
+		"equips": [
+			0,
+			0,
+			0,
+			24,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "变成了穿着连衣裙的可爱少女。\n非常合身，激发了保护欲。"
+	},
+	{
+		"id": 28,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "inmatoningyomecchakawaii",
+		"classId": 37,
+		"equips": [
+			0,
+			0,
+			0,
+			24,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "身体变得与之不相称，拥有丰满的胸部的少女。\n她从连衣裙中凸显出的那一部分格外引人注目。"
+	},
+	{
+		"id": 29,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 30,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "mob",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "男",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 31,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 32,
+		"battlerName": "",
+		"characterIndex": 5,
+		"characterName": "matome1",
+		"classId": 2,
+		"equips": [
+			10,
+			28,
+			29,
+			26,
+			27
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "猫娘",
+		"note": "",
+		"profile": "通过合成魔法，清彦与猫合体。\n是否能够抵抗迫在眉睫的本能呢？"
+	},
+	{
+		"id": 33,
+		"battlerName": "",
+		"characterIndex": 5,
+		"characterName": "matome1",
+		"classId": 39,
+		"equips": [
+			10,
+			28,
+			29,
+			26,
+			27
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "猫娘",
+		"note": "",
+		"profile": "喜欢晒太阳和吃饭。\n是个充满活力的魔物娘。相当容易厌倦。"
+	},
+	{
+		"id": 34,
+		"battlerName": "",
+		"characterIndex": 7,
+		"characterName": "matome1",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "咪咪喵",
+		"nickname": "",
+		"note": "",
+		"profile": "太可爱了吧？"
+	},
+	{
+		"id": 35,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "test2",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "店长",
+		"nickname": "",
+		"note": "",
+		"profile": "不觉得披着坏人外衣最终成为伙伴的情节很有趣吗？"
+	},
+	{
+		"id": 36,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 37,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "matome2",
+		"classId": 40,
+		"equips": [
+			12,
+			0,
+			32,
+			31,
+			33
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "应大妖狐的请求，清彦身着皮衣。\n逐渐在『她』的身体上发生了一些变化……？"
+	},
+	{
+		"id": 38,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "matome2",
+		"classId": 41,
+		"equips": [
+			12,
+			0,
+			32,
+			31,
+			33
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "应大妖狐的请求，清彦穿上皮衣。\n感觉比一开始更加舒适了。"
+	},
+	{
+		"id": 39,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "matome2",
+		"classId": 42,
+		"equips": [
+			12,
+			0,
+			32,
+			31,
+			33
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "应大妖狐的请求，清彦穿上皮衣。\n大腿内侧的感觉几乎消失了，但……？"
+	},
+	{
+		"id": 40,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "matome2",
+		"classId": 43,
+		"equips": [
+			12,
+			0,
+			32,
+			31,
+			33
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "应大妖狐的请求，清彦穿上皮衣。\n被那个植物弄得一团糟，但……？"
+	},
+	{
+		"id": 41,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 42,
+		"battlerName": "",
+		"characterIndex": 1,
+		"characterName": "doradoramusume",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "龙娘怀孕",
+		"nickname": "",
+		"note": "",
+		"profile": "用于事件"
+	},
+	{
+		"id": 43,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "doradoramusume",
+		"classId": 45,
+		"equips": [
+			13,
+			0,
+			35,
+			36,
+			37
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 10,
+				"value": 1
+			}
+		],
+		"initialLevel": 5,
+		"maxLevel": 99,
+		"name": "基奥卡",
+		"nickname": "",
+		"note": "",
+		"profile": "清彦作为龙娘的孩子重生。\n虽然还保留人类的记忆，但……？"
+	},
+	{
+		"id": 44,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 45,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "mobs",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "梅盐",
+		"nickname": "",
+		"note": "",
+		"profile": "梅盐先生加油。"
+	},
+	{
+		"id": 46,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 47,
+		"battlerName": "",
+		"characterIndex": 4,
+		"characterName": "inmatoningyomecchakawaii",
+		"classId": 47,
+		"equips": [
+			19,
+			0,
+			45,
+			43,
+			42
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 2,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "魅魔",
+		"nickname": "",
+		"note": "",
+		"profile": "完全变成了魅魔的清彦。\n她的眼中，究竟在寻找谁，想要做什么呢？"
+	},
+	{
+		"id": 48,
+		"battlerName": "",
+		"characterIndex": 6,
+		"characterName": "inmatoningyomecchakawaii",
+		"classId": 48,
+		"equips": [
+			19,
+			0,
+			0,
+			44,
+			42
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 2,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "魅魔",
+		"nickname": "",
+		"note": "",
+		"profile": "外貌和思考都完全变成了萝莉魅魔的清彦。\n她那小恶魔一般的性格，毫不留情地引诱着人类。"
+	},
+	{
+		"id": 49,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 50,
+		"battlerName": "",
+		"characterIndex": 4,
+		"characterName": "inmatoningyomecchakawaii",
+		"classId": 50,
+		"equips": [
+			19,
+			0,
+			45,
+			43,
+			42
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 2,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "为了拯救城市，身体变成魅魔。\n丰满的身材吸引男性，有时也吸引同性。"
+	},
+	{
+		"id": 51,
+		"battlerName": "",
+		"characterIndex": 6,
+		"characterName": "inmatoningyomecchakawaii",
+		"classId": 51,
+		"equips": [
+			19,
+			0,
+			0,
+			44,
+			42
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [
+			{
+				"code": 53,
+				"dataId": 1,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 2,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 3,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 4,
+				"value": 1
+			},
+			{
+				"code": 53,
+				"dataId": 5,
+				"value": 1
+			},
+			{
+				"code": 51,
+				"dataId": 2,
+				"value": 1
+			}
+		],
+		"initialLevel": 30,
+		"maxLevel": 99,
+		"name": "清彦",
+		"nickname": "",
+		"note": "",
+		"profile": "为了拯救城市，变成了萝莉魅魔。\n性别转换、魔物女化、年龄倒退，她的未来会怎样？"
+	},
+	{
+		"id": 52,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 53,
+		"battlerName": "",
+		"characterIndex": 2,
+		"characterName": "kakuninyoumohumi",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "教会的人",
+		"nickname": "",
+		"note": "",
+		"profile": "这个人绝不是无能或者脆弱的。\n只是周围的人太过强大。"
+	},
+	{
+		"id": 54,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	},
+	{
+		"id": 55,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "初始角色",
+		"nickname": "",
+		"note": "",
+		"profile": "从开局开始与清彦交换。"
+	},
+	{
+		"id": 56,
+		"battlerName": "",
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 1,
+		"equips": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "",
+		"traits": [],
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "",
+		"nickname": "",
+		"note": "",
+		"profile": ""
+	}
+]

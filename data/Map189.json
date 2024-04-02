@@ -1,0 +1,9296 @@
+{
+	"autoplayBgm": false,
+	"autoplayBgs": false,
+	"battleback1Name": "",
+	"battleback2Name": "",
+	"bgm": {
+		"name": "",
+		"pan": 0,
+		"pitch": 100,
+		"volume": 90
+	},
+	"bgs": {
+		"name": "",
+		"pan": 0,
+		"pitch": 100,
+		"volume": 90
+	},
+	"disableDashing": false,
+	"displayName": "",
+	"encounterList": [],
+	"encounterStep": 30,
+	"height": 13,
+	"note": "",
+	"parallaxLoopX": false,
+	"parallaxLoopY": false,
+	"parallaxName": "",
+	"parallaxShow": true,
+	"parallaxSx": 0,
+	"parallaxSy": 0,
+	"scrollType": 0,
+	"specifyBattleback": false,
+	"tilesetId": 3,
+	"width": 17,
+	"data": [
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7764,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7788,
+		7768,
+		7760,
+		7760,
+		7784,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		8146,
+		7776,
+		7760,
+		7760,
+		7784,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		8152,
+		7776,
+		7760,
+		7760,
+		7784,
+		3234,
+		3236,
+		1626,
+		1626,
+		3234,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3236,
+		7776,
+		7760,
+		7760,
+		7784,
+		3216,
+		3224,
+		1626,
+		1626,
+		3216,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		7776,
+		7760,
+		7760,
+		7784,
+		3216,
+		3202,
+		3220,
+		3220,
+		3201,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		7776,
+		7760,
+		7760,
+		7784,
+		3240,
+		3228,
+		3228,
+		3208,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		7776,
+		7760,
+		7760,
+		7784,
+		4098,
+		4084,
+		4100,
+		3216,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		7776,
+		7760,
+		7760,
+		7784,
+		4104,
+		4092,
+		4102,
+		3240,
+		3228,
+		3228,
+		3212,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3238,
+		7776,
+		7760,
+		7760,
+		7762,
+		7780,
+		7780,
+		7780,
+		7780,
+		7780,
+		7796,
+		3244,
+		7794,
+		7780,
+		7780,
+		7780,
+		7780,
+		7780,
+		7761,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7762,
+		7780,
+		7761,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		7760,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3147,
+		3149,
+		0,
+		0,
+		0,
+		0,
+		3147,
+		3141,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3186,
+		3172,
+		3188,
+		0,
+		0,
+		0,
+		0,
+		3530,
+		3148,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3530,
+		3192,
+		3180,
+		3190,
+		0,
+		0,
+		0,
+		0,
+		3505,
+		3508,
+		3524,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3505,
+		3508,
+		3509,
+		3533,
+		0,
+		0,
+		0,
+		0,
+		3504,
+		3492,
+		3518,
+		3510,
+		3508,
+		3524,
+		0,
+		3522,
+		3509,
+		3517,
+		3516,
+		3526,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3504,
+		3512,
+		0,
+		3528,
+		3516,
+		3526,
+		0,
+		3528,
+		3526,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3528,
+		3526,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		161,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		169,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		229,
+		0,
+		230,
+		0,
+		0,
+		163,
+		0,
+		171,
+		228,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		237,
+		0,
+		238,
+		0,
+		231,
+		0,
+		239,
+		0,
+		236,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		86,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		94,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"events": [
+		null,
+		{
+			"id": 1,
+			"name": "EV001",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Flame",
+						"direction": 2,
+						"pattern": 0,
+						"characterIndex": 6
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"要出去吗？"
+							]
+						},
+						{
+							"code": 102,
+							"indent": 0,
+							"parameters": [
+								[
+									"是",
+									"否"
+								],
+								1,
+								-1,
+								2,
+								0
+							]
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								0,
+								"是"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 1,
+							"parameters": [
+								{
+									"name": "Move1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 201,
+							"indent": 1,
+							"parameters": [
+								0,
+								188,
+								12,
+								6,
+								2,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								1,
+								"否"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 404,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": true,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Flame",
+						"direction": 2,
+						"pattern": 0,
+						"characterIndex": 6
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"要出去吗？"
+							]
+						},
+						{
+							"code": 102,
+							"indent": 0,
+							"parameters": [
+								[
+									"是",
+									"否"
+								],
+								1,
+								-1,
+								2,
+								0
+							]
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								0,
+								"是"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 1,
+							"parameters": [
+								{
+									"name": "Move1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 201,
+							"indent": 1,
+							"parameters": [
+								0,
+								188,
+								12,
+								6,
+								2,
+								0
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								458,
+								458,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								1,
+								"否"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 404,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": true,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 458,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Flame",
+						"direction": 2,
+						"pattern": 0,
+						"characterIndex": 6
+					},
+					"list": [
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Move1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 201,
+							"indent": 0,
+							"parameters": [
+								0,
+								188,
+								12,
+								6,
+								2,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": true,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 12,
+			"y": 10
+		},
+		{
+			"id": 2,
+			"name": "EV002",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 324,
+						"characterName": "",
+						"characterIndex": 0,
+						"direction": 2,
+						"pattern": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「破烂的书……是日记吗？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是……这是什么」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「抓伤……不对，这是片假名吗？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"她是用爪子勉强写的吧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是，即使用爪子写，看起来也很粗糙。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这一页上只写了一个『キ』。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"只写了一个『キ』就填满了一页。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「哈比林，所以是哈比写的……？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"写这个的哈比会说话吗"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"还是说，正在学习文字的哈比……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"哈比试图学习人类的语言和文字。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"确实有这样的可能性……。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"话题回到原点。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"总之，除了『キ』之外，日记上找不到其他文字。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"第二页以后已经不是破烂而是撕裂了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"纸张到处都破了，无法再辨认了。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「学习文字的哈比。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是，虽然用爪子写了『キ』"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但之后完全写不出来，就放弃了」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大概吧……这个推测很有可能吧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"话虽如此，学习片假名的时候大多是从『ア』开始的。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"为什么从『キ』开始呢。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……想不出来，也没有特别需要考虑的事情吧。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								447,
+								447,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 447,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 324,
+						"characterName": "",
+						"characterIndex": 0,
+						"direction": 2,
+						"pattern": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是否再次观看事件？"
+							]
+						},
+						{
+							"code": 102,
+							"indent": 0,
+							"parameters": [
+								[
+									"是",
+									"否"
+								],
+								1,
+								-1,
+								2,
+								0
+							]
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								0,
+								"是"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「破烂的书。不对，是日记……？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"但是……这是什么」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「抓伤……不对，这是片假名吗？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"她是用爪子勉强写的吧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"但是，即使用爪子写，看起来也很粗糙。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"这一页上只写了一个『キ』。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"只写了一个『キ』就填满了一页。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「哈比林，所以是哈比写的……？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"写这个的哈比会说话吗"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"还是说，正在学习文字的哈比……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"哈比试图学习人类的语言和文字。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"确实有这样的可能性……。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"话题回到原点。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"总之，除了『キ』之外，日记上找不到其他文字。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"第二页以后已经不是破烂而是撕裂了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"纸张到处都破了，无法再辨认了。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「学习文字的哈比。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"但是，虽然用爪子写了『キ』"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"但之后完全写不出来，就放弃了」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"大概吧……这个推测很有可能吧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"话虽如此，学习片假名的时候大多是从『ア』开始的。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"为什么从『キ』开始呢。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"……想不出来，也没有特别需要考虑的事情吧。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								447,
+								447,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								1,
+								"否"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 404,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 324,
+						"characterName": "",
+						"characterIndex": 0,
+						"direction": 2,
+						"pattern": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「书……不对，是日记……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"薄薄的纸叠在一起形成了日记。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"老少男女都会翻开页写下回忆。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 34,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 34,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[18]翼\\C[0]颤抖着翻动着页面。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!试图翻动……但是。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								7,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「咕……可恶……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"无法。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"即使用硬的部分翻动也只会发出沙沙的声音。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"从手的结构上来说，并不适合抓取东西。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……手不行的话」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"脚。\\!这样应该可以吧？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"俯视着自己的身体，试图看脚"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是被巨大的胸部挡住，只能看到鸟类爪子的尖端。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 33,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 33,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"站在桌子上，用左爪紧紧地插入桌子"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"用右脚的爪子慢慢地翻动日记。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"钩爪可以用力控制小东西，比如勺子。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"身体告诉我……但是，翻动页面呢？"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那种平衡感，简直就像是鸟一样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"用右爪轻轻地……慢慢地……翻动——。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Thunder8",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								453,
+								453,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「啊」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"瞬间断成两半。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"书裂开了，已经没有原形了。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"由于震惊无法出声。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!连小孩子都能做到的翻页"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"却做不到。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"再次意识到自己是『非人类』……。"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 453,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "",
+						"direction": 8,
+						"pattern": 0,
+						"characterIndex": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"书已经没有原形了。"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 447,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 324,
+						"characterName": "",
+						"characterIndex": 0,
+						"direction": 2,
+						"pattern": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「『キ』是……"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"也许是危险（キケン）的意思吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"突然，这样的词浮现在脑海中。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大概吧……应该不是被遭遇到同样境遇的人"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"留下的话吧？"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"遭遇到同样境遇的人会怎样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"现在，他们是否已经成为了这片森林的居民……还是。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……一定要活下去」"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								454,
+								454,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 447,
+						"switch1Valid": true,
+						"switch2Id": 454,
+						"switch2Valid": true,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 324,
+						"characterName": "",
+						"characterIndex": 0,
+						"direction": 2,
+						"pattern": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是否再次观看事件？"
+							]
+						},
+						{
+							"code": 102,
+							"indent": 0,
+							"parameters": [
+								[
+									"是",
+									"否"
+								],
+								1,
+								-1,
+								2,
+								0
+							]
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								0,
+								"是"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「『キ』是……"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"也许是危险（キケン）的意思吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"突然，这样的词浮现在脑海中。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"大概吧……应该不是被遭遇到同样境遇的人"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"留下的话吧？"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 1,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"遭遇到同样境遇的人会怎样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"现在，他们是否已经成为了这片森林的居民……还是。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「……一定要活下去」"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								454,
+								454,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								1,
+								"否"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 404,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 13,
+			"y": 5
+		},
+		{
+			"id": 3,
+			"name": "EV003",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「破烂的招牌。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"上面有很多抓伤。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是哈比玩弄它……吗？」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「变成哈比后暴走造成的伤。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……大概是这样吧」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 10,
+			"y": 3
+		},
+		{
+			"id": 4,
+			"name": "EV004",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「破烂的床……不对，这是……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"除了老化之外"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"床单上到处都是抓伤。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是哈比玩弄后造成的吗？"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「变成哈比后暴走造成的结果，床变得破烂了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……大概是这样吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"我也不是不理解，我也想一定程度地逃避现实。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……但是我注意到了一些奇怪的事情。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「这里的指甲印……被挖得相当深啊」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"我注意到床上只有一部分被破坏了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"毫无疑问，这是哈比施加的力量。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"仿佛在试图抵抗某种东西。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								""
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「被变成白色哈比的人被袭击，在这里抵抗了……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"也就是说……。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这里也可能是个\\C[18]危险\\C[0]之地。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"虽然现在看不到黑色哈比的身影"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但随着时间的推移，会被他们发现的吧？"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……必须赶快」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"突然心中涌起焦虑。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"希望这种焦虑不会成为决定她未来的事件。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								455,
+								455,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 455,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是否再次观看事件？"
+							]
+						},
+						{
+							"code": 102,
+							"indent": 0,
+							"parameters": [
+								[
+									"是",
+									"否"
+								],
+								1,
+								-1,
+								2,
+								0
+							]
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								0,
+								"是"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「变成哈比后暴走造成的结果，床变得破烂了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"……大概是这样吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"我也不是不理解，我也想一定程度地逃避现实。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"……但是我注意到了一些奇怪的事情。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「这里的指甲印……被挖得相当深啊」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"我注意到床上只有一部分被破坏了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"毫无疑问，这是哈比施加的力量。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"仿佛在试图抵抗某种东西。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								""
+							]
+						},
+						{
+							"code": 213,
+							"indent": 1,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「被变成白色哈比的人被袭击，在这里抵抗了……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"也就是说……。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"这里也可能是个危险之地。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"虽然现在看不到黑色哈比的身影"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"但随着时间的推移，会被他们发现的吧？"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「……必须赶快」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"突然心中涌起焦虑。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"希望这种焦虑不会成为决定她未来的事件。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								455,
+								455,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								1,
+								"否"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 404,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 3,
+			"y": 8
+		},
+		{
+			"id": 5,
+			"name": "EV005",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Flame",
+						"direction": 2,
+						"pattern": 0,
+						"characterIndex": 6
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「嗯……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"在破裂的地面下，发现了一个引人注目的箱子。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他伸出手……轻轻一推，确认了重量。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「这个箱子相当轻。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"里面可能是空的，但还是试着举起来吧」"
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth4",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 13,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 13,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								449,
+								449,
+								0
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								9,
+								{
+									"list": [
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"看起来像木制宝箱……或者说只是普通的木箱。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"除了灰尘外，还有大量的抓痕。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「不是陷阱……吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"为了安全起见，他小心翼翼地慢慢打开。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"希望里面没有危险的东西。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								7,
+								{
+									"list": [
+										{
+											"code": 36
+										},
+										{
+											"code": 17
+										},
+										{
+											"code": 15,
+											"parameters": [
+												3
+											]
+										},
+										{
+											"code": 18
+										},
+										{
+											"code": 15,
+											"parameters": [
+												3
+											]
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 36
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 15,
+									"parameters": [
+										3
+									]
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 18
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 15,
+									"parameters": [
+										3
+									]
+								}
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Chest1",
+									"pan": 0,
+									"pitch": 100,
+									"volume": 90
+								}
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								450,
+								450,
+								0
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……！？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\.\\.\\.这、这是……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"里面有一样出乎意料的东西。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!是一颗美丽的圆形水晶，混合了白色和粉色。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「这很可能是魔力的聚集体。外观很美。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……简直就是宝藏。无法用其他词语形容」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"外观美丽的水晶。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"光凭这个就足够作为商品了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"如果拿去鉴定，甚至可以卖给研究者。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"说不定还能用这个偿还债务。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「在这个岛上的事情可能已经结束了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"今天晚上在旅馆住宿，明天乘船回去之前"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"在图书馆调查一下这颗水晶的信息吧」"
+							]
+						},
+						{
+							"code": 242,
+							"indent": 0,
+							"parameters": [
+								2
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"——他不应该触摸那颗水晶。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"至少，如果能保持在宝箱里的状态带回来的话。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他双手抱着水晶，举起来的瞬间"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								451,
+								451,
+								0
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 224,
+							"indent": 0,
+							"parameters": [
+								[
+									255,
+									119,
+									255,
+									170
+								],
+								90,
+								false
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Flash3",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								9,
+								{
+									"list": [
+										{
+											"code": 29,
+											"parameters": [
+												2
+											],
+											"indent": null
+										},
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 29,
+									"parameters": [
+										2
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								120
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"——水晶沉入了他的身体内。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								451,
+								451,
+								1
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								90
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								2,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「诶……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"发生了什么事……？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那个水晶去哪了……？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"进入盔甲的内部了吗……？"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"触摸胸部周围却没有任何感觉。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"急忙查看盔甲内部，却什么也找不到。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「发生了什么――\\!呃！？」"
+							]
+						},
+						{
+							"code": 224,
+							"indent": 0,
+							"parameters": [
+								[
+									238,
+									136,
+									187,
+									153
+								],
+								60,
+								false
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								50
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 241,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Scene3",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"胸部周围开始疼痛。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这种疼痛感似乎扩散到了左手、右手。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								""
+							]
+						},
+						{
+							"code": 129,
+							"indent": 0,
+							"parameters": [
+								1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 129,
+							"indent": 0,
+							"parameters": [
+								13,
+								0,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「手……手指……！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"双臂弯曲成了一个“へ”字形状。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"虽然在关节处停了下来，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但双臂和手指都无法自由活动了。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"然后……从指尖，出现了一根混合了白色和粉色的"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"一根『\\C[18]羽毛\\C[0]』。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那是在这片森林里见过的羽毛。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「这是……！\\!啊啊……\\.\\.\\.啊啊！？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"疼痛变成了颤抖。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"一根羽毛迅速增殖，覆盖了他的双臂。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"美丽的白色和粉色羽毛完全覆盖了他的双臂，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"终于，他能够动弹了……但是"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「这是什么……这就像是」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"哈比的羽毛。不，是翅膀。而且——。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「呜啊……！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"就在他试图在脑海中回答这个问题的瞬间。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"脸、喉咙、胸部颤抖起来，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"甚至无法发出声音。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"脸变得圆润，小巧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"耳朵变长，头发变得柔顺，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"越来越长。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!那个颜色和双臂——\\.\\.\\.不，双翼一样。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「呃……！呃――。\\!\\C[27]呃――！！！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"瞳孔变成了金色，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"尖牙也变得稍微锋利，虽然不能说是野兽级别的。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"脖子周围被白色蓬松的毛包围，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他的呻吟声逐渐变高，变得\\C[27]更女性化。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"盔甲消失，裸露的皮肤暴露在外。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他的肩膀迅速变宽，锻炼过的腹肌松弛下来，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"腰变细，胸部变大。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"就在差点失去平衡的时候，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"美丽的白色和粉色羽毛覆盖了她的胸部周围。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「不、不要——\\!嘶！？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他被自己的声音吓到。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"美丽而又相当漂亮的声音。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"急忙试图遮住嘴巴，但这些羽毛无法很好地隐藏。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"双脚向内弯曲，臀部变得鼓起。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"从尾骨长出尾羽，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"相反，腹股沟收缩，下腹部膨胀。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「在、在那里……！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"慌乱地用\\C[18]双翼\\C[0]触碰到下体，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是这些羽毛无法感受到它变小"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"或者消失的感觉。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"只有将双腿夹紧时，才意识到它消失了。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"从尾骨处，噗嗤一声，尾羽伸展开来。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这也是一片可爱的白色和粉色的尾羽。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"在飞翔时，它们可能用来调整空气阻力。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大腿以下被羽毛覆盖，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"小腿变成了棕色或者黄色。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"关节也发生了变化，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"感觉脚的关节比人类多了一个。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Earth2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「停……停下来……！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"俯视自己的身体，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"形成了沉甸甸的白色柔肤之间的谷间，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"即使从正下方俯视也很费劲。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"双脚的动作方式有些奇怪。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"感觉不是用脚踝站立，而是用脚趾站立。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"而且脚后跟似乎也有脚趾……。"
+							]
+						},
+						{
+							"code": 242,
+							"indent": 0,
+							"parameters": [
+								2
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								90
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「疼痛……停……下来了？」"
+							]
+						},
+						{
+							"code": 231,
+							"indent": 0,
+							"parameters": [
+								1,
+								"torikiyohiko",
+								0,
+								0,
+								0,
+								0,
+								100,
+								100,
+								255,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"发现身体可以自由活动。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"双臂――\\C[18]翅膀\\C[0]扇动起来发出嗖嗖的声音。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"双腿――\\C[18]爪子\\C[0]动起来时，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"感觉到爪子扎进地面的感觉和声音。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「我的……身体」"
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								1
+							]
+						},
+						{
+							"code": 355,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.set(\"extra\",true);"
+							]
+						},
+						{
+							"code": 655,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.set(\"cg66\",true);"
+							]
+						},
+						{
+							"code": 655,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.save();"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								1
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								120
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"变成了哈比鸟。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"而且还是产卵的\\C[18]白色哈比鸟\\C[0]。"
+							]
+						},
+						{
+							"code": 235,
+							"indent": 0,
+							"parameters": [
+								1
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「对，对了……镜子」"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 18,
+											"indent": null
+										},
+										{
+											"code": 15,
+											"parameters": [
+												60
+											],
+											"indent": null
+										},
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 18,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 15,
+									"parameters": [
+										60
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"我记得这个房间里有一面破破烂烂的镜子，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"可以勉强映出自己的形象。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"正准备朝那里走去时，却摇摇晃晃，非常难走。"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「失去平衡了……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"或许习惯了之后就能自然地行走。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是，现在实在是不可能。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"毕竟关节完全不同……。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是我不想习惯这种情况。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 15,
+											"parameters": [
+												60
+											],
+											"indent": null
+										},
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 15,
+											"parameters": [
+												60
+											],
+											"indent": null
+										},
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 15,
+											"parameters": [
+												60
+											],
+											"indent": null
+										},
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 15,
+									"parameters": [
+										60
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 15,
+									"parameters": [
+										60
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 15,
+									"parameters": [
+										60
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“哈……哈……呼”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"到达镜子前。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!映照在那里的是一只被称为白哈比鸟的"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"魔物娘。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"扇动翅膀。移动脚步。用双翼触碰胸部。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"无论做什么，镜子中的哈比鸟也会做出同样的动作。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"镜子中的哈比鸟也会和我一样的表情。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……这是谁啊」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"镜子中映出的自己的脸，已经完全变成了别人。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"瞳孔的颜色，甚至头发的颜色都发生了变化，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"就算对熟人说「我是清彦」"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"也没有一个人会相信。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 16,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 16,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……必须要逃出去，\\.\\.\\.\\.没错」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是的……"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"必须要从这片森林中出去。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"逃离那群正在繁殖期饥饿的黑色哈比的群体。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「如果……被抓住的话」"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"在入口附近看到黑色和白色哈比的交合姿势。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"黑色一方无情地蹂躏了白色。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!我会成为白色的一方吗……？\\C[18]"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"如果在袭击之后等待着我的命运是……？"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"感到一阵寒意。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"全身起鸡皮疙瘩，甚至连羽毛都竖立起来。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"已经不再是寻宝的问题了。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								7,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「没关系……没事的。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"只要不被袭击，逃离黑色。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"从这片森林中出去……没问题的」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"嗯～。\\.\\.\\.重复深呼吸。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"能够平静下来的脑袋，是冒险经验的馈赠吧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]我\\C[0]，要感谢我至今为止的冒险人生。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「以这个身体是无法奔跑的……所以」"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「能飞起来吗……？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"路上的哈比们都在空中翩翩起舞。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"所以……现在的我也一样。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"扑棱一下，展开翅膀，模仿着扑腾扑腾的样子。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 212,
+							"indent": 0,
+							"parameters": [
+								-1,
+								91,
+								false
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 33,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 33,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								30
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「哇哇！？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"能够优雅地飞翔。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"而且，如果慢慢扇动翅膀，就能停在原地。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"如果剧烈扇动，就会加速。身体告诉我这些。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"就像天生的哈比一样。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"奇怪的是，胸部的摇晃被抑制住了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"明明走路时摇晃得那么厉害。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……总算，能行动了吗」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"现在不是恢复原状与否的问题。\\C[18]"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\!而是能否逃脱袭击的问题。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"如果被抓住的话，会变得非常糟糕。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"绝对绝对不能让那种事发生。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"她咽了口唾沫，决定原路返回。"
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								452,
+								452,
+								0
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 241,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Dungeon4",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 5,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": true,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 449,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 452,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「如果没有触碰那块水晶的话……」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 5,
+			"y": 4
+		},
+		{
+			"id": 6,
+			"name": "EV006",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								7,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「真是尘土飞扬啊……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"每做一点事情，尘土就会飞扬起来。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"老化的程度比想象中严重。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"当然，也要小心地面和墙壁。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「试着在房间里搜寻一下。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"说不定能找到什么东西」"
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								448,
+								448,
+								0
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 3,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 448,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 0,
+			"y": 0
+		},
+		{
+			"id": 7,
+			"name": "宝箱",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 449,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Chest",
+						"direction": 2,
+						"pattern": 1,
+						"characterIndex": 6
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": false
+				},
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 450,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Chest",
+						"direction": 8,
+						"pattern": 1,
+						"characterIndex": 6
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「房间里似乎什么都没有了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……以这个身体，就算有也拿不回去吧」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": false
+				}
+			],
+			"x": 6,
+			"y": 4
+		},
+		{
+			"id": 8,
+			"name": "EV008",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「破裂的镜子」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"无论看多少次，破裂的镜子上都映着白色哈比鸟。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"镜子是破裂的，可是即使找一面完整的镜子，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"会不会仍然看不到原来的男性自己呢。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……不可能的，那种事」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"消失的双臂。能在空中飞舞的自己。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"走路时和狗一样在室内奔跑时一样，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"脚爪发出咔嚓咔嚓的声音。"
+							]
+						},
+						{
+							"code": 111,
+							"indent": 0,
+							"parameters": [
+								0,
+								14,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「如果去那个教堂的话，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"说不定有办法恢复原样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"所以……首先要逃出这里才行」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「肯定能恢复原样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"所以，首先要逃出这里……嗯」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他将羽毛轻轻地贴在胸前的皮肤上，低声说道。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"羽毛柔软而舒服。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"翅膀上似乎有神经通行的地方，也有没有的地方，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"对于『用翅膀触摸某物的感觉』还不太习惯。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								457,
+								457,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 457,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"要再次观看事件吗？"
+							]
+						},
+						{
+							"code": 102,
+							"indent": 0,
+							"parameters": [
+								[
+									"是",
+									"否"
+								],
+								1,
+								-1,
+								2,
+								0
+							]
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								0,
+								"是"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"无论看多少次，破裂的镜子上都映着白色哈比鸟。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"镜子是破裂的，可是即使找一面完整的镜子，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"会不会仍然看不到原来的男性自己呢。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 1,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「……不可能的，那种事」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"消失的双臂。能在空中飞舞的自己。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"走路时和狗一样在室内奔跑时一样，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"脚爪发出咔嚓咔嚓的声音。"
+							]
+						},
+						{
+							"code": 111,
+							"indent": 1,
+							"parameters": [
+								0,
+								14,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 2,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"「如果去那个教堂的话，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"说不定有办法恢复原样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"所以……首先要逃出这里才行」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 2,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 2,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"「肯定能恢复原样。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 2,
+							"parameters": [
+								"所以，首先要逃出这里……嗯」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 2,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"他将羽毛轻轻地贴在胸前的皮肤上，低声说道。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"羽毛松软而舒服。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"翅膀上似乎有神经通行的地方，也有没有的地方，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"对于『用翅膀触摸某物的感觉』还不太习惯。"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								457,
+								457,
+								0
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 402,
+							"indent": 0,
+							"parameters": [
+								1,
+								"否"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 404,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 11,
+			"y": 3
+		},
+		{
+			"id": 9,
+			"name": "发光的家伙",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 451,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": true,
+					"image": {
+						"tileId": 0,
+						"characterName": "!Flame",
+						"direction": 2,
+						"pattern": 1,
+						"characterIndex": 7
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": true,
+					"through": true,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 6,
+			"y": 5
+		},
+		{
+			"id": 10,
+			"name": "EV010",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": true,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 5,
+			"y": 5
+		},
+		{
+			"id": 11,
+			"name": "EV011",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": true,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 4,
+			"y": 5
+		},
+		{
+			"id": 12,
+			"name": "EV012",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": true,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 4,
+			"y": 4
+		},
+		{
+			"id": 13,
+			"name": "EV013",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「就算从这边也打不开啊」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 13,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「能用这对翅膀打开门吗？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"试着轻轻地推了一下，但还是一动不动。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"翅膀弯曲得奇怪，还有点疼痛。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……还是算了吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"完全不知道它能弯曲到什么程度。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"如果用力过猛，可能会折断。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"完全意识到自己的手已经变成了异形的东西。"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 8,
+			"y": 11
+		},
+		{
+			"id": 14,
+			"name": "EV014",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 12,
+			"y": 5
+		}
+	]
+}

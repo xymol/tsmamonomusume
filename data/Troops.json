@@ -1,0 +1,12813 @@
+[
+	null,
+	{
+		"id": 1,
+		"members": [
+			{
+				"enemyId": 1,
+				"x": 336,
+				"y": 436,
+				"hidden": false
+			},
+			{
+				"enemyId": 1,
+				"x": 480,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "蝙蝠*2",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 2,
+		"members": [
+			{
+				"enemyId": 2,
+				"x": 337,
+				"y": 436,
+				"hidden": false
+			},
+			{
+				"enemyId": 2,
+				"x": 480,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "史莱姆*2",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 3,
+		"members": [
+			{
+				"enemyId": 3,
+				"x": 408,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "兽人",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 4,
+		"members": [
+			{
+				"enemyId": 4,
+				"x": 408,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "牛头怪",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 5,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 6,
+		"members": [
+			{
+				"enemyId": 5,
+				"x": 245,
+				"y": 436,
+				"hidden": false
+			},
+			{
+				"enemyId": 5,
+				"x": 572,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "次要敌人两人",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 7,
+		"members": [
+			{
+				"enemyId": 6,
+				"x": 245,
+				"y": 436,
+				"hidden": false
+			},
+			{
+				"enemyId": 6,
+				"x": 572,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "次要敌人两人2",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							1,
+							8,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"男人 1"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“嗯？怎么，你做了什么吗？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"男人2"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“呵呵。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"还是猫的拳头更疼。”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"（不，我很努力地想打他，但根本没用。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"相反，我的拳头很痛……）"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"男人 1"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“好吧，现在轮到我了。”"
+						]
+					},
+					{
+						"code": 122,
+						"indent": 1,
+						"parameters": [
+							8,
+							8,
+							0,
+							0,
+							10
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							1,
+							8,
+							0,
+							2,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"男人 1"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“怎么，你变小了？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"你看，你看……啊？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"男人2"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“放心，我不会伤害你的。”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嘎……”"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"（我该怎么办？一定有什么办法……）”"
+						]
+					},
+					{
+						"code": 122,
+						"indent": 2,
+						"parameters": [
+							8,
+							8,
+							0,
+							0,
+							10
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							8,
+							0,
+							3,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"男人 1"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"「嗯？你，你不会使用攻击魔法吧？」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"男人2"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"「也许精灵不能使用攻击魔法。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"呵呵，\\C[18]一定是六个月前在\\C[0]处逃逸的。”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"“嘎……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"（我不能使用攻击魔法……"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"我必须在这里攻击并保护自己！ ）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"（由于某种原因我无法使用攻击魔法。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"出来的只是恢复魔法……！ ）”"
+						]
+					},
+					{
+						"code": 122,
+						"indent": 3,
+						"parameters": [
+							8,
+							8,
+							0,
+							0,
+							10
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 8,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 9,
+		"members": [
+			{
+				"enemyId": 7,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "吸血姬清香",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「随便你从哪个角度攻击♪」"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 106,
+					"switchValid": true,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呀！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"有破绽！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"那把剑——银色的武器割破了吸血姬的皮肤！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"尽管它是\\!。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“停下吧。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"伤害少女的肌肤是不好的♪”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"它根本不起作用。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 我确信用这把剑...我用银质武器割破了她的手臂。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「呵呵……♪发生什么事了？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我还什么都没做呢。”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"此时，男性冒险家才明白为什么吸血鬼不为所动。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"因为银武器不起作用。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果是的话，她们到底是怎样的魔物娘……？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我没有时间思考，我必须做点什么……但我该怎么办？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“剑……。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"呵呵♪ 虽然没用过，但是看起来很有趣。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"不管怎样，我也有点。”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Magic4",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								255,
+								68,
+								68,
+								119
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"——！ ？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 当吸血鬼注入魔力时，它与他使用的剑不同。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"另一把剑出现。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"双手握住它并练习摆动几次。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这显然不是业余行为。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"绝非新手的摆弄，这是已经娴熟的剑术。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"或许接下来就是刀剑相锋了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"他能赢吗……？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呵呵。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"你能帮我一点忙吗？ ”"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							112,
+							112,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 107,
+					"switchValid": true,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"用双重攻击切开吸血鬼的皮肤，不留任何缝隙！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"有破绽！这是一个很好的响应——尽管它是 \\!。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呀！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“停下吧。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"伤害少女的肌肤是不好的♪”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"它根本不起作用。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 确实，用这把剑……我用银质武器割破了她的手臂。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这种事发生了两次。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「呵呵……♪发生什么事了？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我还什么都没做呢。”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"此时，男性冒险家才明白为什么吸血鬼不为所动。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"因为银武器不起作用。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果是的话，她们到底是怎样的魔物娘……？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我没有时间思考，我必须做点什么……但我该怎么办？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“剑……。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"呵呵♪ 虽然没用过，但是看起来很有趣。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"不管怎样，我也有点。”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Magic4",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								255,
+								68,
+								68,
+								119
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"——！ ？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 当吸血鬼注入魔力时，它与他使用的剑不同。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"另一把剑出现。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"双手握住它并练习摆动几次。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这显然不是业余行为。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"绝非新手的摆弄，这是已经娴熟的剑术。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"或许接下来就是刀剑相锋了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"他能赢吗……？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呵呵。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"你能帮我一点忙吗？ ”"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							112,
+							112,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 108,
+					"switchValid": true,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我拔出剑看了看。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"最好不要做得不好。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"看看他刚才的魔法就知道了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果有一两个不咏唱的攻击魔法也没什么奇怪的。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“怎么了？不设置的话……”"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"嗯，指甲也很好看。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果有的话，我想用你的东西来战斗♪”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Magic4",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								255,
+								68,
+								68,
+								119
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"——！ ？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 当吸血鬼赋予魔力时"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"一把与男性冒险者使用的不同的剑出现了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"双手握住它并练习摆动几次。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“剑……。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"呵呵♪虽然没用过，但是看起来很好玩的样子。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"你能帮我做一件事吗？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这显然不是业余行为。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果说这是我第一次，那是骗人的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"或许接下来就是刀剑相锋了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"他能赢吗……？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呵呵，我们玩得开心吧。”"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							112,
+							112,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 112,
+					"switchValid": true,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Sword7",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"男性冒险家"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“可恶！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"刀剑交锋，一阵阵金属声响起。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"不知何故，男性冒险家们能够互相妥协。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"然而，他正逐渐落于下风。并不是自己失去了力量。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"男性冒险家"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呃……\\.\\.\\.呃……”\\.\\.\\."
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"汗水从我的身上滴下来，我的呼吸进入我的肩膀。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"但是……吸血鬼甚至没有出汗。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"根据资料"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"没有证据表明吸血鬼使用魔法。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「呵呵……♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"男性冒险家"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“（...我很失望）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"简直就是被他的剑术打败了。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"那招式显然是熟悉实战之人的招式。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"你这个骗子，以前从来没有处理过什么？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"男性冒险家咂舌道。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「真有趣♪没想到剑已经走到了这一步……！」"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"对我来说，剑似乎比爪子更合适♡"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"最好的部分是我有更多新的东西可以享受。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\!，但是能力上的损失绝对是一场灾难。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"男性冒险家后退一步，想着逃跑。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果能在下一轮攻势中幸存下来并返回入口......"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“那……我要认真了！”"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							113,
+							113,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 113,
+					"switchValid": true,
+					"turnA": 3,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"认真...？那么，到目前为止她到底发挥了几分水平？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\!冷静，保持冷静。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这是他认输逃跑的场景。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"所以如果你一点点后退......"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「要上喽♪」"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								170
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Sword7",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							" - 快速地！ \\!比以前更加明显。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"虽然勉强阻止，但以这样的速度……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 男性冒险家表情颤抖。 \\!就是那一刻。"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								170
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Sword6",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"男性冒险家"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「啊啊！（志摩……！"
+						]
+					},
+					{
+						"code": 313,
+						"indent": 0,
+						"parameters": [
+							0,
+							19,
+							0,
+							11
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清香"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「我明白了♪上吧！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"尽你所能去阻止它！ ”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			}
+		]
+	},
+	{
+		"id": 10,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 11,
+		"members": [
+			{
+				"enemyId": 8,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "爱娜温",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"爱娜温"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「呼呼呼……♪"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"人类，找到你了♡”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 126,
+					"switchValid": true,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Damage1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								102,
+								170,
+								51,
+								170
+							],
+							60,
+							true
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「……！？」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"爱娜温"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“很受欢迎♡很受欢迎♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"一个坚硬的物体击中了他的头部，让他的大脑受到了震动。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"虽然脸色扭曲，但他很快就恢复了姿势，举起了剑。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"也许这一击打得不错，但并没有导致死亡。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\!下一刻发生了。"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Earth2",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 0,
+						"parameters": [
+							[
+								51,
+								255,
+								51,
+								170
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「嘎……！？」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我的视野开始动摇。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\! 头...不，我的头骨里面很痛。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"但这种情况很快就会平息。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"爱娜温"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「飞起来了♪飞起来了♪花啊♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「（……这个魔物娘在说什么？）」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦再次握紧了剑。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"无论如何，我现在必须摆脱这种局面。"
+						]
+					},
+					{
+						"code": 322,
+						"indent": 0,
+						"parameters": [
+							1,
+							"aruratoharpy",
+							0,
+							"",
+							0,
+							""
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							129,
+							129,
+							0
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							126,
+							126,
+							1
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							131,
+							131,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 129,
+					"switchValid": true,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			}
+		]
+	},
+	{
+		"id": 12,
+		"members": [
+			{
+				"enemyId": 9,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "爱娜温女王",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 13,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 14,
+		"members": [
+			{
+				"enemyId": 11,
+				"x": 408,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "卫兵",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 99,
+					"enemyIndex": 0,
+					"enemyValid": true,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"警卫"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“来吧！\\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我在这里……如果他生气了，我应该用这个吗？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“（我不知道他们要做什么，但我会坚持到底！）”"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							261,
+							261,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 261,
+					"switchValid": true,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							4,
+							32,
+							6,
+							14
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“芬雅……”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"一股甜甜的气味让我鼻子发痒。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\! 那一刻，我全身失去了力气。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"像章鱼一样左右摇摆身体的同时，"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"平坦的。我坐在地上，双腿呈“H”形。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"自然，\\C[27] 女孩坐在 \\C[0] 处。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"将你的大手放在大腿之间"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 乌雅~乌雅~。 \\C[0]，他咆哮出无法用语言表达的话语。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 尽管我没有力气，但我的小腹却很痛。 \\!\\C[18]"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我的身体很热。 \\! 我想让你安慰我...！"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「呐呐……♡」"
+						]
+					},
+					{
+						"code": 340,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			}
+		]
+	},
+	{
+		"id": 15,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 16,
+		"members": [
+			{
+				"enemyId": 13,
+				"x": 408,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "植物",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							4,
+							37,
+							6,
+							17
+						]
+					},
+					{
+						"code": 122,
+						"indent": 1,
+						"parameters": [
+							20,
+							20,
+							1,
+							0,
+							1
+						]
+					},
+					{
+						"code": 121,
+						"indent": 1,
+						"parameters": [
+							322,
+							322,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“哇！？”"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							0,
+							324,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"他确实是用火系魔法攻击的！ ？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"看起来像是受伤了，但并没有死。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Wind5",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"移动的藤蔓瞬间束缚了双手双脚。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"他以前从未经历过或见过这种事件"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"转眼间，当他睁大眼睛的时候"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"他的整个身体就被藤蔓束缚，举了起来"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 231,
+						"indent": 1,
+						"parameters": [
+							1,
+							"shokushukiyo1",
+							0,
+							0,
+							0,
+							0,
+							100,
+							100,
+							255,
+							0
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Wind1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 222,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 355,
+						"indent": 1,
+						"parameters": [
+							"GlobalVars.set(\"extra\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 1,
+						"parameters": [
+							"GlobalVars.set(\"cg58\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 1,
+						"parameters": [
+							"GlobalVars.save();"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							140
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「嘎……！可恶！」"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这不好...！ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"藤蔓搜遍了她的每一寸。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"但是……那件“皮衣”也处于同样的状态，正好保护了身体。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"没有感到特别痛苦或快乐。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"紧的。紧的。我感觉我的整个身体都被压缩了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我感觉自己在很多方面都受到了干扰。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这株植物到底想做什么？"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							0,
+							324,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“冷静点，你只是被束缚了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"再次用火魔法燃烧本体！ ”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“冷静点，你只是被束缚了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"用火魔法燃烧身体！ ”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 235,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								34,
+								34,
+								119
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Up1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“火系魔法！”"
+						]
+					},
+					{
+						"code": 339,
+						"indent": 1,
+						"parameters": [
+							1,
+							1,
+							38,
+							-2
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			}
+		]
+	},
+	{
+		"id": 17,
+		"members": [
+			{
+				"enemyId": 13,
+				"x": 408,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "植物",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							4,
+							38,
+							6,
+							17
+						]
+					},
+					{
+						"code": 122,
+						"indent": 1,
+						"parameters": [
+							20,
+							20,
+							1,
+							0,
+							1
+						]
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							0,
+							322,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“妈的……！该死的，又来了！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"不是一次，甚至两次。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"他三度被束缚，一道道名为藤蔓的藤蔓向他的身体逼近。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"左手，右手，左脚，右脚。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"此外，它们还会侵入您的耳朵、尾巴和其他部位。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「没关系。如果像以前那样用火魔法烧掉的话……」"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								0,
+								221,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“咕叽！？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"甜蜜的麻木。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我早些时候被捕时并没有发生这种情况。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"强烈的麻木感尤其来自耳朵和尾巴。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"这不是痛苦，这种麻木带来的是……\\.\\. 快乐。"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 231,
+						"indent": 2,
+						"parameters": [
+							1,
+							"shokushukiyo2",
+							0,
+							0,
+							0,
+							0,
+							100,
+							100,
+							255,
+							0
+						]
+					},
+					{
+						"code": 222,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 355,
+						"indent": 2,
+						"parameters": [
+							"GlobalVars.set(\"extra\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 2,
+						"parameters": [
+							"GlobalVars.set(\"cg58\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 2,
+						"parameters": [
+							"GlobalVars.save();"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							140
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗯……♡你摸哪里呢……♡"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\.\\. 库夫。 \\.\\.\\. 该死的，该死的......！ \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"冷静，冷静。 \\.\\. 冷静，\\.\\.\\.！ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我一边皱着眉头，一边努力集中注意力。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"即使我必须忍住疼痛"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"在我的冒险过程中，我几乎从不需要抑制快乐。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"但还可以忍受。我可以集中注意力。勉强……不知何故！"
+						]
+					},
+					{
+						"code": 235,
+						"indent": 2,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								34,
+								34,
+								119
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Up1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“放开我……\\.\\.\\.哦！”"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 2,
+						"parameters": [
+							343,
+							343,
+							0
+						]
+					},
+					{
+						"code": 339,
+						"indent": 2,
+						"parameters": [
+							1,
+							1,
+							38,
+							-2
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“哇！？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"移动的藤蔓瞬间束缚了双手双脚。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"他以前从未经历过或见过这种事件"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"转眼间，当他睁大眼睛的时候"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"他的整个身体就被藤蔓束缚，举了起来"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「嘎……！糟糕！这是……！」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"有什么东西侵入了我的手、脚和头顶的耳朵。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"尾巴也被藤蔓缠住了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"有证据表明神经传递到耳朵和尾巴。"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								0,
+								221,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“咕叽！？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"甜蜜的麻木。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"强烈的麻木感尤其来自耳朵和尾巴。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"这不是痛苦，这种麻木带来的是……\\.\\. 快乐。"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 231,
+						"indent": 2,
+						"parameters": [
+							1,
+							"shokushukiyo2",
+							0,
+							0,
+							0,
+							0,
+							100,
+							100,
+							255,
+							0
+						]
+					},
+					{
+						"code": 222,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 355,
+						"indent": 2,
+						"parameters": [
+							"GlobalVars.set(\"extra\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 2,
+						"parameters": [
+							"GlobalVars.set(\"cg58\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 2,
+						"parameters": [
+							"GlobalVars.save();"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							140
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗯……♡你摸哪里呢……♡"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\.\\. 库夫。 \\.\\.\\. 该死的，该死的......！ \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"冷静，冷静。 \\.\\. 冷静，\\.\\.\\.！ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我一边皱着眉头，一边努力集中注意力。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"你可以抑制痛苦，但你无法抑制快乐。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我现在就在抑制快乐啊。好焦灼。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"但还可以忍受。我可以集中注意力。勉强……不知何故！"
+						]
+					},
+					{
+						"code": 235,
+						"indent": 2,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								34,
+								34,
+								119
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Up1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“放开我……\\.\\.\\.哦！”"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							8,
+							32
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"我已经没有时间打开除草剂盖子了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"我现在能做的就是火魔法……？"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 339,
+						"indent": 2,
+						"parameters": [
+							1,
+							1,
+							38,
+							-2
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			}
+		]
+	},
+	{
+		"id": 18,
+		"members": [
+			{
+				"enemyId": 13,
+				"x": 408,
+				"y": 436,
+				"hidden": false
+			}
+		],
+		"name": "植物",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							4,
+							39,
+							6,
+							17
+						]
+					},
+					{
+						"code": 122,
+						"indent": 1,
+						"parameters": [
+							20,
+							20,
+							1,
+							0,
+							1
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“住口！"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"刹那间，我的胳膊和腿就被常春藤束缚住了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我的双腿张开，不合时宜。"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							1,
+							20,
+							0,
+							1,
+							1
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“又……咔……！”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“该死...！”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"打开双腿，小腹的空气流通变得更好。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我感觉风在吹过我的全身。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"就好像她完全赤身裸体一样，这也太尴尬了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"也许我很幸运没有人在看。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“我们得赶紧逃……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"只有一件事要做。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我用火系魔法解除了束缚，暂时后退，恢复了姿势。"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							1,
+							20,
+							0,
+							1,
+							1
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"这和以前是一样的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"因为是\\!……这次我也能轻松逃脱了。我也这么想。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 242,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								68,
+								153,
+								153
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「啊啊——！！！"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							20
+						]
+					},
+					{
+						"code": 241,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Theme5",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"那声音既不是“痛苦”，也不是“尖叫”。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"当尾巴被缠住时我就明白了... \\.\\.\\. 这是一种“乐趣”。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"他的尾巴被藤蔓抚摸，戳刺，他的视线有一瞬间闪烁，就像大脑中弹了一样。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"发出连续的呼呼声"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"植物试图集中攻击某个地方。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"它从两侧越过头部，接近头顶。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"头顶传来两道声音。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"看着它变得越来越大"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"她的狐狸耳朵被勾住了。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"和之前一样，他的耳朵和尾巴都被束缚住了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"完全一样的情况。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"同样的情况……但又和之前不同了。"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								68,
+								153,
+								204
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「咕叽——"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"它进入我的耳朵。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"一股甜蜜的麻木感从她的脑门蔓延到全身。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"一股甜蜜的麻木感从尾巴处从尾骨蔓延到全身。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\!两种麻木正在摧毁她的思绪。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这是可以忍受的，因为它不痛苦。不是那个水平。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"因为快感，我已经无法再用力了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我连施展火系魔法的时间都没有了。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"两个乳房都被紧紧地、整齐地束缚着。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"当被轻轻按摩和刺激时"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"她的乳房也像是做出了回应一样做出了反应。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"当然，藤蔓更加刺激底部。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“住手……！\\.\\.别进来！\\.\\.\\.\\.\\.\\.别进来……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我几乎无法发出声音。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"常春藤在头顶多次出没，刺激尾巴。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"作为奖励，将药物之类的东西倒入耳朵中。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"收起胸部尖端。并轻轻刺激。"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								68,
+								153,
+								221
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“哇……♡"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"啊... \\.\\.\\.\\.\\.\\."
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我的整个身体感觉又热又抽搐。我止不住地痉挛。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我已经无法独自做任何事情了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"无论让我活着还是杀死我，都取决于这种植物。"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"就在那时。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\.\\.\\.藤蔓离开了她的身体，以前一样。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我正在努力克制。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"双耳、胸部、耳朵和尾巴保持不变。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"但是……有一部分它还没有做任何事情。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"直到下面准备好之前"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"它好像还没有动作一样"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"藤蔓慢慢地靠近……慢慢地。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“加唏...♡\\.\\.\\.fa...♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"轻轻刺激底部..."
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								68,
+								153,
+								255
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze3",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							20
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 231,
+						"indent": 1,
+						"parameters": [
+							1,
+							"shokushukiyo3",
+							0,
+							0,
+							0,
+							0,
+							100,
+							100,
+							255,
+							0
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 355,
+						"indent": 1,
+						"parameters": [
+							"GlobalVars.set(\"extra\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 1,
+						"parameters": [
+							"GlobalVars.set(\"cg58\",true);"
+						]
+					},
+					{
+						"code": 655,
+						"indent": 1,
+						"parameters": [
+							"GlobalVars.save();"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								221
+							],
+							120,
+							false
+						]
+					},
+					{
+						"code": 222,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「是啊……！啊啊♡\\.\\. 不……♡"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\.\\. 不！ ！ ！坏了……♡不……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"好温暖♡好搞笑♡♡"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我甚至不知道这话是不是我自己说的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"你是在寻找乐趣还是寻求帮助？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"从上面、从下面、从尾部看。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"雌性本能地颤抖和喘息。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"再这样下去，精神就会崩溃。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"但植物不会停止责备它的猎物。"
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								153
+							],
+							30,
+							false
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							30
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								170
+							],
+							20,
+							false
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							20
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								204
+							],
+							10,
+							false
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							10
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								255,
+								219
+							],
+							5,
+							false
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							5
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 242,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"有什么突然爆发了。她把头向后仰去。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"摇晃着身体的同时"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"她的意识渐渐消失在黑暗之中。"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							30
+						]
+					},
+					{
+						"code": 235,
+						"indent": 1,
+						"parameters": [
+							1
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"注意到了...."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"一棵满意的植物消失了，好像它已经完成了一切。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"终于成功击败了植物。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"……成功？不对，我能说我打败了吗？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"一切都一团糟"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"醒来后会恢复正常吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"或许我唯一可以依靠的，就是作为冒险者修炼出来的精神力。"
+						]
+					},
+					{
+						"code": 223,
+						"indent": 1,
+						"parameters": [
+							[
+								0,
+								0,
+								0,
+								0
+							],
+							1,
+							true
+						]
+					},
+					{
+						"code": 340,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 1
+			}
+		]
+	},
+	{
+		"id": 19,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 20,
+		"members": [
+			{
+				"enemyId": 15,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "大妖狐分身",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							363,
+							363,
+							1
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							364,
+							364,
+							0
+						]
+					},
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「哎哟♪ 毛茸茸的～」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"当我回过神来时，我已经在她身后了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"看起来这次攻击很成功，但是……？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我的眼睛根本跟不上大妖狐的速度。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"么呼。他的尾巴被碰了一下，发出很大的声音。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"但是……我并没有什么特别的感觉。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"不过，轻微的麻木感传过来了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"被碰触的只是服装的尾部。"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							0,
+							356,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「（正好抓到一个背身，为什么不碰她的尾根呢……？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"好吧，让我们尝试一下，冒一次险！ ？ ）”"
+						]
+					},
+					{
+						"code": 102,
+						"indent": 1,
+						"parameters": [
+							[
+								"敢于触摸",
+								"时机成熟时反击"
+							],
+							-1,
+							-1,
+							2,
+							0
+						]
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							0,
+							"敢于触摸"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“（现在！）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我现在对尾巴很着迷！ \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"身体向右一转，强行撕下妖狐的手。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"当她的目光看到大狐狸脸上惊讶的表情后，"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"他的右手即将到达其根部。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“哇！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"--\\.\\.\\. 她的右手切向空中。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐直接向后跳去。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"然而，跳跃的程度和反应能力并不是人类的壮举。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……果然，对手强大无比。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“你是不是有点惊讶……？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"强行触碰女人的身体是没有好处的吧？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……哦，原来如此。如果是女孩子之间就好了。”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 太大声了，我不需要说什么。 \\C[0]\\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我心里也是这么想的，但我没有说出来。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我本来有机会触碰她，但我浪费了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"更重要的是，现在我已经被回避了，接下来我该怎么办……？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"...我应该用指甲而不是用手触摸它吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"这是大狐狸的另一个自我，是时候认真对待它了。有人告诉我。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"就算受伤了应该也没有问题。不要在这里偷工减料！"
+						]
+					},
+					{
+						"code": 122,
+						"indent": 2,
+						"parameters": [
+							26,
+							26,
+							1,
+							0,
+							1
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							1,
+							"时机成熟时反击"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“可恶！”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「哎呀♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"虽然他会适时反击，但却很容易被闪避。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"哪怕是男性清彦的剑攻击。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"这原本是可以避免的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"她的反应速度之快是人类做不到的。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"（按照这个速度，我根本追不上她。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……就在前面。 （如果从前面过来时把手放在背后）"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗯……我想你并没有想象中那么习惯。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"也许你需要稍微改变一下你的方法？ ”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 404,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“可恶！”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「哎呀♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这一击很快就被闪避了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"哪怕是男人的清彦剑"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这本来是很容易避免的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"她的反应速度之快是人类做不到的。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“（她摸了我的尾巴……）"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这是否意味着尾巴是一个弱点？ ）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“嗯……我想你并没有想象中那么习惯。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"也许你需要稍微改变一下你的方法？ ”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							29,
+							29,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							28,
+							28,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							30,
+							30,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「接下来是你的耳朵～♪」"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							0,
+							356,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"（等等，我试着表现得好像我在这里有这种感觉。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我也可以瞄准尾骨。）"
+						]
+					},
+					{
+						"code": 102,
+						"indent": 1,
+						"parameters": [
+							[
+								"装装样子",
+								"不，我们攻击尾骨吧。"
+							],
+							-1,
+							-1,
+							2,
+							0
+						]
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							0,
+							"装装样子"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“啊啊……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"她又被迫从后面变得蓬松起来。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"就好像头顶的耳朵被摸到了，但又不是那样的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"奇怪的是，很痒，可能是因为我的神经已经到了一半。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\!这是一个行为。我努力让自己感觉自己在演戏。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“呼呼呼~♪"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"难道你不擅长这个吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"虽然你的尾巴感觉不明显，但在这里软弱可很不寻常♪"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“可恶……停下来……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我的演技出奇的好。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……尽量不去做出一点反应。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"每次我被拉开距离时，我都会尝试放松。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐靠近了我的身体。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"每当她的大乳房撞到我的背上时，我的身体就感觉要做出反应。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"现在，机会来了！"
+						]
+					},
+					{
+						"code": 102,
+						"indent": 2,
+						"parameters": [
+							[
+								"攻击尾根！",
+								"不，还是可以忍受的"
+							],
+							1,
+							-1,
+							2,
+							0
+						]
+					},
+					{
+						"code": 402,
+						"indent": 2,
+						"parameters": [
+							0,
+							"攻击尾根！"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 3,
+						"parameters": [
+							361,
+							361,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"这只是一瞬间。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"\\C[18] \\C[0] 他自己弯腰的速度，连他自己都觉得是谎言。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"不知道是皮肤原因还是什么原因"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 3,
+						"parameters": [
+							1,
+							26,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 4,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 4,
+						"parameters": [
+							"因为这次我确实感觉到了"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 4,
+						"parameters": [
+							"我以为这样就可以了吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 4,
+						"parameters": [
+							"当大狐狸睁开眼睛的时候……"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 4,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 4,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 4,
+						"parameters": [
+							"我弯下腰，把手伸向她的身体底部，同时挣脱束缚。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 4,
+						"parameters": [
+							"\\! 我够不到它！在这种情况下，应该——伸展指甲。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 4,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 250,
+						"indent": 3,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 3,
+						"parameters": [
+							[
+								255,
+								255,
+								85,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 242,
+						"indent": 3,
+						"parameters": [
+							2
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"“嗨♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"我的手正在触摸她的尾根。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"够得到，但来不及仔细揉搓。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"我连忙刺激那个部位两三下。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"我太坚强了，最后我也摸到了她的屁股。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"“呃……！太极端了♡\\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"呃……我使不上力气了。”"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 3,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 402,
+						"indent": 2,
+						"parameters": [
+							1,
+							"不，还是可以忍受的"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"“（还没有，还是这个状态……）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"「就是这样啦♪么呼么呼么呼么呼♪」"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 404,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							1,
+							"不，我们攻击尾骨吧。"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							28,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"情况不同。这里不攻击是没有意义的！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"冷静下来，观察大妖狐的动作……"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"用爪子攻击！"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							29,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"情况不同。这里不攻击是没有意义的！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"静下心来观察大妖狐的动作……不过对方的速度很快。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"如果是魔法的话！"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							30,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"情况不同。这里不攻击是没有意义的！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"冷静下来，观察大妖狐的动向……小心行事。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「是的，我会再次关爱你的。对吧♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我又被从后面抓住了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"当尾巴被击中时，有点措手不及。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我小心翼翼地避免第二次被攻击。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"因为敌我能力的巨大差异而感到不安。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「就是这样啦♪么呼么呼么呼么呼♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大狐狸拢住耳朵，挼得她心烦意乱。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"她华丽而活泼的声音让我毫无恐惧。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"她的语气就像一个充满关怀的姐姐。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 404,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"她摸了摸我头顶的耳朵，但只感觉有点痒。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"虽然耳朵位于头部颞区的内侧"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"头顶的耳朵被玩弄时有一种不舒服的感觉。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\!就是那时。"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								102,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"！ ？ \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] “嗨！？” \\C[0] 一个奇怪的声音传了出来。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"没错，有什么东西被搞乱了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我在我以为自己所在的地方感到麻木。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「嗯♪好像\\C[18]已经习惯了，\\C[0]来了？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"让我也玩玩你的尾巴~”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"适合。 \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"想想看，大狐狸也说过这样的话。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"事实真的如此吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"你，对装饰品很敏感吗...？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"那么，尾巴就和之前完全不一样了……！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								102,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“是啊♡毛茸茸的♪”"
+						]
+					},
+					{
+						"code": 132,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“啊啊啊……啊啊……♡\\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"不要啊！ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"虽然麻木了，但也不是难以忍受……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"力量有些恢复了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"如果等待下一次机会..."
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“...该死！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"（真糟糕……！我真的不知道该怎么办。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"如果这是冒险中的战斗，我会暂时撤退……！ ）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"不会死，不会受伤。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"但不能逃跑。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"这让她变得不耐烦，开始捂住耳朵。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"她摸了摸我头顶的耳朵，但只感觉有点痒。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"虽然耳朵位于头部颞区的内侧"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"头顶的耳朵被玩弄时有一种不舒服的感觉。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"冷静点……你现在应该考虑一下。 \\!我就是这么想的。"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								102,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"！ ？ \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] “嗨！？” \\C[0] 一个奇怪的声音传了出来。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"没错，有什么东西被搞乱了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我在我以为自己所在的地方感到麻木。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「嗯♪好像\\C[18]已经习惯了，\\C[0]来了？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"让我也玩玩你的尾巴~”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"适合。 \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"想想看，大狐狸也说过这样的话。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"事实真的如此吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"你，对装饰品很敏感吗...？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"那么，尾巴就和之前完全不一样了……！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								102,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“是啊♡毛茸茸的♪”"
+						]
+					},
+					{
+						"code": 132,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“啊啊啊……啊啊……♡\\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"不要啊！ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"虽然麻木了，但也不是难以忍受……！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"力量有些恢复了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"如果等待下一次机会..."
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 21,
+		"members": [
+			{
+				"enemyId": 16,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "大妖狐分身",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							363,
+							363,
+							1
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							364,
+							364,
+							0
+						]
+					},
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「真是毛茸茸的攻击啊～♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这一击，看来是成功了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"但就在我目光追随大妖狐的那一刻，"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"么呼。他的尾巴被碰了一下，发出很大的声音。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"它通过尾巴刺痛到尾骨。本来的事"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我可以看到它正在发生。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我有一瞬间感觉很虚弱，但是……"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“可恶！”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「哎呀♪好危险好危险♪」"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							0,
+							356,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"他挣开怀抱，并立即尝试尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"薄而锋利的指甲会短暂划伤衣服，但"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"它并没有造成打击。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“你喜欢我的屁股还是我的尾巴？？？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"想尝试很多绒毛吗？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“……”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"Anyway, take it easy."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"好吧，说真的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\! 两者温差较大。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"快认真起来啊。我想了一会儿。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"他松开它，用爪子攻击大妖狐，但"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"那只手刚刚触碰了我的胸口"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"很舒服——绝对不能这么说。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“呃……"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"清彦，你是想让我摸你的胸部吧？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“……”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"绝对不可能承认的！。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"无论如何，放轻松。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"好吧，说真的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"正视敌我之间的差距。"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"（是不是有点危险？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"看来他已经追上了我的速度。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"难道当皮肤适应后各项体能也会适应吗？ ）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"（看来我们能够获得一些好的数据。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"下次我就听你的~♪）”"
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							29,
+							29,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							28,
+							28,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							30,
+							30,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"「接下来是你的耳朵～♪」"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"一瞬间，我就看到那头巨大的妖狐正以极快的速度向我逼近。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"如果不带入情境，看上去真像是一记死手。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"但下一次会有所不同！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Wind1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呃……？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"本来应该到达清彦身后，但看到的只是狐狸的虚影 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"本应能以和上次一样的方式摸到他的耳朵"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"到达预定的背后位时，只看到另一只妖狐正在高速移动，"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"她回头望去。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“（现在 - ！"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							0,
+							356,
+							0
+						]
+					},
+					{
+						"code": 102,
+						"indent": 1,
+						"parameters": [
+							[
+								"瞄准尾骨根部",
+								"瞄准另一部分"
+							],
+							-1,
+							-1,
+							2,
+							0
+						]
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							0,
+							"瞄准尾骨根部"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								255,
+								85,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 242,
+						"indent": 2,
+						"parameters": [
+							2
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗨♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我的手正在触摸她的尾根。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐失去力气，摇摇晃晃。好样的。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"刺激该区域两到三次。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“呃……我没力气了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"不是责弄我的屁股，而是这里"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"清彦，你是个不寻常的孩子吗？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……我不敢贸然回应。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"她大概知道自己在说什么。"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 2,
+						"parameters": [
+							361,
+							361,
+							0
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							1,
+							"瞄准另一部分"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							28,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"不，我够不到她的尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"然后！攻击容易被瞄准的部位！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"在这种情况下……是前面！如果用爪子攻击的话……！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 3,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							29,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"不，我够不到她的尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"然后！攻击容易被瞄准的部位！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"在这种情况下……是前面！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 3,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 2,
+						"parameters": [
+							1,
+							30,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 3,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"稍等一下......"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 3,
+						"parameters": [
+							"如果这个时候你用爪子攻击的话……"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 3,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 0,
+						"indent": 3,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								136,
+								255,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“安♡”"
+						]
+					},
+					{
+						"code": 241,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"啊。当我注意到的时候，已经晚了。 \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我的右手正抚摸着大妖狐的左胸。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"不...我会说它是“摩擦”而不是“触摸”。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“啊”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"果然，她对此也很兴奋。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"即使没有生命危险，这也是一场激烈的竞争。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"（不知道大狐狸是否这么认为。）"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"因为发生了这样的事情。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「原来如此，清彦君。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"男生很在意屁股吗？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"但是……还有比下面更好的东西，对吧？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大狐狸指着她的大胸，嘀咕道……"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 404,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							1,
+							28,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"不，我够不到她的尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"然后！攻击容易被瞄准的部位！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"在这种情况下……是前面！如果用爪子攻击的话……！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							1,
+							29,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"不，我够不到她的尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"然后！攻击容易被瞄准的部位！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"在这种情况下……是前面！"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 111,
+						"indent": 1,
+						"parameters": [
+							1,
+							30,
+							0,
+							1,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"稍等一下......"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"如果这个时候你用爪子攻击的话……"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								136,
+								255,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“安♡”"
+						]
+					},
+					{
+						"code": 241,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"啊。当我注意到的时候，已经晚了。 \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我的右手正抚摸着大妖狐的左胸。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"不...我会说它是“摩擦”而不是“触摸”。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“啊”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"果然，她对此也很兴奋。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"即使没有生命危险，这也是一场激烈的竞争。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"（不知道大狐狸是否这么认为。）"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"因为发生了这样的事情。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"「原来如此，清彦君。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我想知道这个男孩是否因为瞄准了两次而对底部感兴趣？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"但是……还有比下面更好的东西，对吧？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大狐狸指着她的大胸，嘀咕道……"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 2
+			}
+		]
+	},
+	{
+		"id": 22,
+		"members": [
+			{
+				"enemyId": 17,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "大妖狐分身",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 1,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							363,
+							363,
+							1
+						]
+					},
+					{
+						"code": 121,
+						"indent": 0,
+						"parameters": [
+							364,
+							364,
+							0
+						]
+					},
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“……！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"一瞬间，大妖狐就消失在了视线之中。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这就是……消失的魔法。不，这不对。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"它以人类无法看到的速度移动。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我能看到大妖狐的动作竟然有如此之快。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"果然，她瞄准的肯定是这条尾巴。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\!...好的！"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“就是这样！毛茸茸的……什么？”"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐旋转了好几圈，想要找到一个近身的机会。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"而我如同旋转身体一样躲避伸向尾巴的手。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"立即反击！"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“（机会！）”"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							0,
+							356,
+							0
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"毫不犹豫地到达尾根！ \\.\\.\\."
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“哦！？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"呼～危险啊危险♪”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我能够暂时接触到尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"然而，我只是隔着衣服摸，并没有真正触及它。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"当我们远离彼此时，我不由自主地咂舌，但很快我又恢复了平静。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"（不知道我的动作是否明显。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"我想皮肤的融合程度比我想象的要好……"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"在这种情况下，要认真起来了。）"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“（……下次我会抓住它的！）”"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 102,
+						"indent": 1,
+						"parameters": [
+							[
+								"到达尾根",
+								"先伸手去够尾巴"
+							],
+							1,
+							0,
+							2,
+							0
+						]
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							0,
+							"到达尾根"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“哦！？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"呼～危险啊危险♪”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我能够暂时接触到尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"然而，我只是隔着衣服摸，并没有真正触及它。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"当我们远离彼此时，我不由自主地咂舌，但很快我又恢复了平静。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"（奇怪的是，我认为没有人知道你的弱点。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……嗯，为什么？ ）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“（……下次我会抓住它的！）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"（不知道我的动作是否明显。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我想皮肤的融合程度比我想象的要好……"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"在这种情况下，要认真起来了。）"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							1,
+							"先伸手去够尾巴"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Miss",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗯！"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"你喜欢毛茸茸的东西吗？ ”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我能够成功触碰它……但效果并不是特别好。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"没有任何尖锐物体四处乱窜的迹象。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"……不，还能正常运动。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"尾巴没那么敏感。是这个意思吗？"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“（危险，危险。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"如果它在尾根的话那就很危险了。）"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"「（不是尾梢吗……？"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"是尾根吗？不……弱点真的是尾巴吗……？ ）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"（不知道我的动作是否明显。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"我想皮肤的融合程度比我想象的要好……"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"在这种情况下，要认真起来了。）"
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 404,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							29,
+							29,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							28,
+							28,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 122,
+						"indent": 0,
+						"parameters": [
+							30,
+							30,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			},
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 2,
+					"turnB": 0,
+					"turnEnding": true,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 250,
+						"indent": 0,
+						"parameters": [
+							{
+								"name": "Wind1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"哦！ \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"再次，大狐狸消失了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"不过，以她现在的状态，肉眼都能看到……虽然是\\.\\.\\.。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“（我看不见你！？）”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我能听到她在移动。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"然而，我根本看不到她。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"并不是看不到，因为我比以前更快了。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这次她一定是用魔法消失了。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“冷静下来...”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"没有必要用眼睛追随它。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"然后...用声音跟随它！闭上眼睛，集中注意力。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"狐狸耳朵抽搐。并仔细聆听声音。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"了解大狐狸的大致位置。"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 0,
+						"parameters": [
+							30
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"\\C[27] 清彦"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“！”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"声音变了。 \\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"这意味着她正在接近他。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"是在前面、后面还是侧面？ \\.\\.\\.\\."
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"就在前面！"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我可以看到大狐狸双手的动作。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"并没有转身或者向后飞去躲避。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"踢了榻榻米，把它踢飞到了空中。"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"“呀……！？”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"尽管这只是一瞬间的事"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"我的注意力更加集中，就像在慢动作播放一样。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"在空中垂直转体"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"已经趁机挪到了大妖狐的身后……"
+						]
+					},
+					{
+						"code": 111,
+						"indent": 0,
+						"parameters": [
+							0,
+							356,
+							0
+						]
+					},
+					{
+						"code": 250,
+						"indent": 1,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 1,
+						"parameters": [
+							[
+								255,
+								255,
+								85,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 242,
+						"indent": 1,
+						"parameters": [
+							2
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"“嗨♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 1,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"快速敲击尾根。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\.\\. 软着陆，步伐轻盈。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"背部一抽。大妖狐失去了姿态。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 1,
+						"parameters": [
+							"\\C[18]非人类\\C[0]之间的比赛已经结束……"
+						]
+					},
+					{
+						"code": 221,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 121,
+						"indent": 1,
+						"parameters": [
+							361,
+							361,
+							0
+						]
+					},
+					{
+						"code": 340,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 1,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 411,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 102,
+						"indent": 1,
+						"parameters": [
+							[
+								"瞄准尾骨根部",
+								"瞄准尾巴"
+							],
+							-1,
+							-1,
+							2,
+							0
+						]
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							0,
+							"瞄准尾骨根部"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								255,
+								85,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 242,
+						"indent": 2,
+						"parameters": [
+							2
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗨♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"快速敲击底座。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\.\\. 我着陆时发出软着陆声音。 \\!"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"背部出现裂缝。大妖狐失去了姿态。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"\\C[18]非人类\\C[0]之间的比赛已经结束……"
+						]
+					},
+					{
+						"code": 121,
+						"indent": 2,
+						"parameters": [
+							361,
+							361,
+							0
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 340,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 402,
+						"indent": 1,
+						"parameters": [
+							1,
+							"瞄准尾巴"
+						]
+					},
+					{
+						"code": 250,
+						"indent": 2,
+						"parameters": [
+							{
+								"name": "Paralyze1",
+								"volume": 90,
+								"pitch": 100,
+								"pan": 0
+							}
+						]
+					},
+					{
+						"code": 224,
+						"indent": 2,
+						"parameters": [
+							[
+								255,
+								255,
+								85,
+								170
+							],
+							60,
+							false
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“嗯♡”"
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"这次，同时拉两条尾巴。"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"垂直旋转时紧紧抓住它，如果用力拉，"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"没有人能受得了。哪怕是一只巨型妖狐。"
+						]
+					},
+					{
+						"code": 242,
+						"indent": 2,
+						"parameters": [
+							2
+						]
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"大妖狐"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"“杂~嫩♡”"
+						]
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							60
+						]
+					},
+					{
+						"code": 221,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 101,
+						"indent": 2,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"但是……当我落地时"
+						]
+					},
+					{
+						"code": 401,
+						"indent": 2,
+						"parameters": [
+							"身后传来大妖狐的声音……"
+						]
+					},
+					{
+						"code": 340,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 230,
+						"indent": 2,
+						"parameters": [
+							90
+						]
+					},
+					{
+						"code": 0,
+						"indent": 2,
+						"parameters": []
+					},
+					{
+						"code": 404,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 1,
+						"parameters": []
+					},
+					{
+						"code": 412,
+						"indent": 0,
+						"parameters": []
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 2
+			}
+		]
+	},
+	{
+		"id": 23,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 24,
+		"members": [
+			{
+				"enemyId": 19,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "黑色哈比",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 25,
+		"members": [
+			{
+				"enemyId": 21,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "魅魔",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦成功地打了个措手不及！"
+						]
+					},
+					{
+						"code": 333,
+						"indent": 0,
+						"parameters": [
+							-1,
+							0,
+							18
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 26,
+		"members": [
+			{
+				"enemyId": 21,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "魅魔",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 27,
+		"members": [
+			{
+				"enemyId": 22,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "萝莉魅魔",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦成功地打了个措手不及！"
+						]
+					},
+					{
+						"code": 333,
+						"indent": 0,
+						"parameters": [
+							-1,
+							0,
+							18
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 28,
+		"members": [
+			{
+				"enemyId": 22,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "萝莉魅魔",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 29,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 30,
+		"members": [
+			{
+				"enemyId": 23,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "绿色魅魔",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 31,
+		"members": [
+			{
+				"enemyId": 23,
+				"x": 408,
+				"y": 444,
+				"hidden": false
+			}
+		],
+		"name": "绿色魅魔",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": true
+				},
+				"list": [
+					{
+						"code": 101,
+						"indent": 0,
+						"parameters": [
+							"",
+							0,
+							0,
+							2
+						]
+					},
+					{
+						"code": 401,
+						"indent": 0,
+						"parameters": [
+							"清彦成功地打了个措手不及！"
+						]
+					},
+					{
+						"code": 333,
+						"indent": 0,
+						"parameters": [
+							-1,
+							0,
+							18
+						]
+					},
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 32,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	},
+	{
+		"id": 33,
+		"members": [],
+		"name": "",
+		"pages": [
+			{
+				"conditions": {
+					"actorHp": 50,
+					"actorId": 1,
+					"actorValid": false,
+					"enemyHp": 50,
+					"enemyIndex": 0,
+					"enemyValid": false,
+					"switchId": 1,
+					"switchValid": false,
+					"turnA": 0,
+					"turnB": 0,
+					"turnEnding": false,
+					"turnValid": false
+				},
+				"list": [
+					{
+						"code": 0,
+						"indent": 0,
+						"parameters": []
+					}
+				],
+				"span": 0
+			}
+		]
+	}
+]

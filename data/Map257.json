@@ -1,0 +1,8584 @@
+{
+	"autoplayBgm": false,
+	"autoplayBgs": false,
+	"battleback1Name": "",
+	"battleback2Name": "",
+	"bgm": {
+		"name": "",
+		"pan": 0,
+		"pitch": 100,
+		"volume": 90
+	},
+	"bgs": {
+		"name": "",
+		"pan": 0,
+		"pitch": 100,
+		"volume": 90
+	},
+	"disableDashing": false,
+	"displayName": "",
+	"encounterList": [],
+	"encounterStep": 30,
+	"height": 16,
+	"note": "",
+	"parallaxLoopX": false,
+	"parallaxLoopY": false,
+	"parallaxName": "",
+	"parallaxShow": true,
+	"parallaxSx": 0,
+	"parallaxSy": 0,
+	"scrollType": 0,
+	"specifyBattleback": false,
+	"tilesetId": 3,
+	"width": 20,
+	"data": [
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6752,
+		6756,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6780,
+		6760,
+		6776,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		7138,
+		6768,
+		6776,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		7144,
+		6768,
+		6776,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		4098,
+		4084,
+		4084,
+		4084,
+		4100,
+		6768,
+		6776,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		4080,
+		4064,
+		4064,
+		4064,
+		4088,
+		6768,
+		6776,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		4080,
+		4064,
+		4064,
+		4064,
+		4088,
+		6768,
+		6776,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		4104,
+		4092,
+		4092,
+		4092,
+		4102,
+		6768,
+		6776,
+		1554,
+		3246,
+		1554,
+		1554,
+		1554,
+		3246,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		6768,
+		6776,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		1554,
+		6768,
+		6776,
+		1554,
+		1554,
+		3234,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3220,
+		3236,
+		6768,
+		6776,
+		1554,
+		1554,
+		3216,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		6768,
+		6776,
+		1554,
+		1554,
+		3216,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		6768,
+		6776,
+		1554,
+		1554,
+		3216,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3200,
+		3224,
+		6768,
+		6776,
+		1554,
+		1554,
+		3240,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3228,
+		3238,
+		6768,
+		6754,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6788,
+		1554,
+		6786,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6772,
+		6753,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3194,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3184,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3184,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3195,
+		3185,
+		3185,
+		3185,
+		3185,
+		3185,
+		3185,
+		3191,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3186,
+		3188,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		3168,
+		3176,
+		0,
+		0,
+		0,
+		0,
+		3186,
+		3188,
+		0,
+		0,
+		0,
+		3186,
+		3188,
+		0,
+		0,
+		0,
+		3186,
+		3188,
+		0,
+		0,
+		3168,
+		3176,
+		0,
+		0,
+		0,
+		0,
+		3192,
+		3190,
+		0,
+		0,
+		0,
+		3192,
+		3190,
+		0,
+		0,
+		0,
+		3192,
+		3190,
+		0,
+		0,
+		3192,
+		3190,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		67,
+		0,
+		0,
+		0,
+		24,
+		0,
+		0,
+		0,
+		0,
+		0,
+		24,
+		0,
+		0,
+		0,
+		0,
+		100,
+		0,
+		0,
+		0,
+		0,
+		75,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		16,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		16,
+		0,
+		0,
+		0,
+		0,
+		0,
+		16,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		24,
+		0,
+		66,
+		68,
+		64,
+		0,
+		70,
+		71,
+		0,
+		0,
+		0,
+		0,
+		101,
+		102,
+		103,
+		0,
+		0,
+		0,
+		121,
+		112,
+		113,
+		114,
+		74,
+		76,
+		72,
+		0,
+		78,
+		79,
+		0,
+		0,
+		0,
+		0,
+		109,
+		110,
+		111,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		201,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		104,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		104,
+		104,
+		104,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		104,
+		104,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		104,
+		0,
+		0,
+		104,
+		0,
+		104,
+		0,
+		0,
+		104,
+		0,
+		104,
+		0,
+		0,
+		104,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		104,
+		0,
+		0,
+		104,
+		0,
+		104,
+		0,
+		0,
+		104,
+		0,
+		104,
+		0,
+		0,
+		104,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		104,
+		104,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"events": [
+		null,
+		{
+			"id": 1,
+			"name": "大妖狐とですわ姫",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 50,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 659,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 10,
+						"variableValid": false,
+						"variableValue": 60
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "kyuketu",
+						"direction": 8,
+						"pattern": 1,
+						"characterIndex": 1
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 4,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 658,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "matome2",
+						"direction": 8,
+						"pattern": 1,
+						"characterIndex": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 4,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 51,
+						"actorValid": true,
+						"itemId": 46,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 660,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "matome1",
+						"direction": 8,
+						"pattern": 1,
+						"characterIndex": 4
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 4,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 9,
+			"y": 15
+		},
+		{
+			"id": 2,
+			"name": "EV002",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 661,
+						"switch1Valid": true,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 258,
+						"characterName": "",
+						"characterIndex": 0,
+						"direction": 2,
+						"pattern": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 5,
+			"y": 7
+		},
+		{
+			"id": 3,
+			"name": "店长",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "test2",
+						"direction": 2,
+						"pattern": 1,
+						"characterIndex": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 1,
+						"actorValid": false,
+						"itemId": 43,
+						"itemValid": true,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 50,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "test2",
+						"direction": 2,
+						"pattern": 1,
+						"characterIndex": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 51,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 1,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"tileId": 0,
+						"characterName": "test2",
+						"direction": 2,
+						"pattern": 1,
+						"characterIndex": 0
+					},
+					"list": [
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 4,
+					"moveType": 0,
+					"priorityType": 1,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 0,
+					"walkAnime": true
+				}
+			],
+			"x": 4,
+			"y": 6
+		},
+		null,
+		{
+			"id": 5,
+			"name": "EV005",
+			"note": "",
+			"pages": [
+				{
+					"conditions": {
+						"actorId": 50,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 117,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 241,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Scene1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								3,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								3,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「真是太棒了」"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"疲惫不堪地回家，想要质问却趴在桌子上。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"淫魔的身体能力虽然很棒"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但体力是另一个问题……。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是……现在，如果不问就无法入睡。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「为什么要偷偷放进去那种东西……」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「不偷偷放进去的话你就不会带走了吧？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"而且那个东西考虑到未来是必要的」"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「也许，同样的事情会再次发生。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"现在岛上没有导致淫魔化的水晶了"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是从外部进来的可能性也存在」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「破魔之剑已经没有了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……那么，就需要用其他方法来击败淫魔」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「……那个箱子里面就是吗？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「对。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那个东西像媚药一样对淫魔和前淫魔起作用。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"对人类和其他魔物娘没有效果……明白吧」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「我一个人做不到……」"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								659,
+								659,
+								0
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Open1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 204,
+							"indent": 0,
+							"parameters": [
+								2,
+								3,
+								4
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"女"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「你好～♪」"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 16,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 16,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「欢迎光临女士。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"不，是……\\.\\.大妖狐小姐」"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 204,
+							"indent": 0,
+							"parameters": [
+								8,
+								1,
+								4
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 18,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 18,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 111,
+							"indent": 0,
+							"parameters": [
+								0,
+								315,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「（大妖狐……！？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"那个山上的魔物娘……？）」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"「（大妖狐……！？"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"从名字可以推测出，是个很强大的魔物娘……！？）」"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「让我介绍一下，清彦君。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这位是大妖狐小姐，统治着这个岛的魔物娘之一。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"其他两个我没有见过……」"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 17,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「首先我要恢复原样♪变～身♪」"
+							]
+						},
+						{
+							"code": 212,
+							"indent": 0,
+							"parameters": [
+								1,
+								41,
+								false
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								658,
+								658,
+								0
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 111,
+							"indent": 0,
+							"parameters": [
+								0,
+								315,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“你好，清彦君。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"没想到你竟然救了世界……真厉害♪”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“哪里……没什么了不起的。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“你们两个认识吗？”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 1,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 1,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“我曾经去过她家做客。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"虽然拒绝了她的请求，然后就回来了……”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“原来如此……话题转回来吧。”"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“初次见面，清彦君。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"听说了很多关于你的事情。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"居然救了世界！”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“哪里……没什么了不起的。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"“那么……"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“大妖狐小姐，那个药水也就是香水成功了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"万一淫魔再次出现"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"现在这样也能应对。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“一直让你随心所欲，还在方便的时候帮忙"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"真是抱歉。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"本来是因为我的管理不善才……”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“没关系，别介意♪"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"平时我们不干涉人类的事情"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是世界危机就另当别论了。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“如果药水没问题就好。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"实验是不是清彦君做的？”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"我别开了眼睛，无力地笑了起来。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"既然说是“成功”"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"就没有必要隐瞒发生了什么……。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 17,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“对不起，清彦君。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"所以，虽然有点追问……。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\.\\.能详细告诉我发生了什么吗？”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 18,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 18,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「诶？」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"既然她已经知道了药水的效果"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"就没有必要告诉她了吧！？"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“发生了什么样的现象很重要。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"可能会成为恢复原状的线索。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\.\\.有点困扰\\.\\.唔！\\.\\.\\.请告诉我吧。”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"也许会成为恢复原状的线索。\\!"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"被这样说了就不能反悔了……。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“是的，呃……首先――。"
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								180
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“……就是这样，是的。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								false
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								3,
+								8,
+								false
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"害羞得要死，真想找个地缝钻进去。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"说得这么详细。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"彼此交换了各种行为……。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“原来如此……你们两个做了很多事情呢。”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“一开始是一个人做的话"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"一个人就一个人，两个人就两个人。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“一个人一直做下去就好了"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是既然混在一起了"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"发情的淫魔可能会袭击人类。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“听说接吻也会改变……。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"要改进成一个人做吗？”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“想试试淫魔和本来是人类的区别。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"淫魔原本就会袭击人类。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"当然，男女两种情况都要试一下。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“是啊，根据结果决定下一步计划。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"被自己推进了对话。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这样下去，又要闻那个气味"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"再次遭受尴尬了。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“那个……我有否决权吗？”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“世界就靠你了。”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 17,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"大妖狐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“对不起，清彦君。只有你一个人。”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 18,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 18,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"无论怎么挣扎都没用……。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"既然淫魔只有她一个人，就只能这样了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"只能依靠她了。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“这也是恢复原状的过程。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"对不起，请你帮忙。”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“（她说的不是随便说的吧……）”"
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"半信半疑地跟着她。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"毕竟，为了变回人类男性"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"只能跟着他们走……。"
+							]
+						},
+						{
+							"code": 355,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.set(\"extra\",true);"
+							]
+						},
+						{
+							"code": 655,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.set(\"inma3\",true);"
+							]
+						},
+						{
+							"code": 655,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.save();"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								90
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"ED30.淫魔化帰還ED"
+							]
+						},
+						{
+							"code": 111,
+							"indent": 0,
+							"parameters": [
+								0,
+								701,
+								0
+							]
+						},
+						{
+							"code": 242,
+							"indent": 1,
+							"parameters": [
+								1
+							]
+						},
+						{
+							"code": 129,
+							"indent": 1,
+							"parameters": [
+								50,
+								1,
+								false
+							]
+						},
+						{
+							"code": 129,
+							"indent": 1,
+							"parameters": [
+								1,
+								0,
+								true
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								616,
+								616,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								617,
+								617,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								618,
+								618,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								621,
+								621,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								622,
+								622,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								656,
+								656,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								659,
+								659,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								658,
+								658,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								701,
+								701,
+								1
+							]
+						},
+						{
+							"code": 230,
+							"indent": 1,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 201,
+							"indent": 1,
+							"parameters": [
+								0,
+								258,
+								10,
+								12,
+								8,
+								0
+							]
+						},
+						{
+							"code": 222,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 354,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 3,
+					"walkAnime": true
+				},
+				{
+					"conditions": {
+						"actorId": 51,
+						"actorValid": true,
+						"itemId": 1,
+						"itemValid": false,
+						"selfSwitchCh": "A",
+						"selfSwitchValid": false,
+						"switch1Id": 117,
+						"switch1Valid": false,
+						"switch2Id": 1,
+						"switch2Valid": false,
+						"variableId": 1,
+						"variableValid": false,
+						"variableValue": 0
+					},
+					"directionFix": false,
+					"image": {
+						"characterIndex": 0,
+						"characterName": "",
+						"direction": 2,
+						"pattern": 0,
+						"tileId": 0
+					},
+					"list": [
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 241,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Scene1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								3,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								3,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“完全就是小孩子的淫魔嘛。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"我低下头，无力地倒下。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"椅子太小，只露出脖子以上"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"想要趴在地上却只能把额头贴在桌子上。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“你是从哪里看到的……”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“嗯……虽然不是我亲眼看到的"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是那个孩子说"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"‘从打开盒子的地方开始，事情就变得有意思了’”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 111,
+							"indent": 0,
+							"parameters": [
+								0,
+								593,
+								0
+							]
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"‘那个孩子’是她在地下遇到的戴面具的男人。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"和其他人一样，变成小孩淫魔之后"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"又变回了人类女孩。"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 1,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"‘那个孩子’是她在地下遇到的戴面具的男人。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"和其他人一样，变成小孩淫魔之后"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 1,
+							"parameters": [
+								"又变回了人类女孩。"
+							]
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“给她灌输了各种话，"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"比如‘养成0721的习惯’，‘变成淫魔时更舒服’等等……"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"没想到被看到了。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“（而且，最伤人的是，自己还有意识地做了这些……）”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"是的，记忆完整无缺。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"并不是因为沉溺于酒而失去记忆"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"而是在喝醉后兴奋的状态下。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"事后会后悔的类型。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"踩别人……用女性的话煽动像小孩一样"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"最后甚至插入尾巴……。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“这次的事情我没有告诉你真是对不起。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"治疗淫魔化也很重要"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但我决定先采取对策。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“现在没有驱魔剑了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"水晶也没有在这个岛上，但外部可能会有。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“那么，我们需要控制淫魔的药物。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"为此我准备了那个药物，或者说香水"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"对淫魔和原淫魔有效，对人类无效。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“只要……你继续虐待自己"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"完全没有问题"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"即使是原淫魔引诱，也不会袭击。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“这是失败了……必须想办法解决。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"或者改进成发挥其他功能。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“嘟嘟嘟”地自言自语着。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"恢复原样很重要，但确实需要先采取对策。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"对此我无话可说。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……只要有恢复原样的意愿就好。"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								30
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"女性的声音：“打扰了。”"
+							]
+						},
+						{
+							"code": 204,
+							"indent": 0,
+							"parameters": [
+								2,
+								2,
+								4
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								660,
+								660,
+								0
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 16,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 16,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Open1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“欢迎光临！"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\.\\.哦，你难道是……？”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"女性：“我是大妖狐介绍来的‘吸血姬’。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"请多关照。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 204,
+							"indent": 0,
+							"parameters": [
+								8,
+								1,
+								4
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 18,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 18,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“（吸血姬……？）”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那是一个小小的魔物娘。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……虽然比现在的她高一半或一头。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								""
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那个魔物娘慢慢地坐在椅子上。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"双手放在裙子上，优雅地。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"看起来相当有教养。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 17,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“你就是清彦君吧。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"你的脸好可爱……♡"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"请多关照。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“请、请多关照……”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"可爱的脸。这个词还不太习惯。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"呵呵，吸血姬微笑着，眼神有点可怕……仿佛被猎物盯上了一样。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“那么……吸血姬小姐"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"你听说了请求的内容吗？”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长：“平时很多事情都放过你了"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"在方便的时候帮忙，真是对不起。”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“嗯，我理解了。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“（这就是这个店长的本性吗。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"之前化身为人类来这里的时候"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这个人的性格更开朗）”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“（看到店员的扮装"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"还说‘好可爱～♡’之类的话）”"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 17,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“清彦君，请把手给我。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"稍微刺一下，确认一下血液。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“啊，好的。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"她轻轻地刺了一下他的手臂，血液附着在指尖。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"闻了一下后舔了一下。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"“嗯～”她歪着头，然后吸血姬张开了嘴。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“完全是魔物娘的味道。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"一点也没有人类的味道。”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								6,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"虽然早就知道这个事实"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但听到自己“完全是”魔物娘时还是有点沮丧。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 1,
+											"indent": null
+										},
+										{
+											"code": 2,
+											"indent": null
+										},
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 1,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 2,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“接下来请背对我？”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								2,
+								false
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 19,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 19,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“像这样吗？”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"一露出背后，吸血姬就盯着他的背。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"视线似乎集中在翅膀和尾巴上……"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"证据是她几次触摸了翅膀。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“使用魔法的话，翅膀可以暂时飞行。并不是"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"完全不能飞的翅膀？”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“不能飞，魔法……我不知道。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但是可以动。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"他稍微用力按在背上，翅膀扑扑地动了一下。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"顺便一提，因为有神经"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"所以他知道吸血姬触摸的位置。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“嗯……我的翅膀结构和你的很像。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这里怎么样？”"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Paralyze1",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"翅膀的根部。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"她用食指轻轻触摸，他的背上传来一阵刺痛。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦：“稍微有点刺痛。”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬：“嗯……那这个呢？”"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"她像按摩翅膀的根部一样"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"反复按压、揉捏。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……只是有点刺痛，没有其他感觉……\\.\\.。"
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Paralyze2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 14,
+											"parameters": [
+												0,
+												0
+											],
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 14,
+									"parameters": [
+										0,
+										0
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「噗！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"某个时刻之后，变得非常敏感。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"不由自主地背脊挺直，屁股翘起。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"翅膀发出巨大的声音扩张到极限。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「羽毛的结构和我很相似呢。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"感受也几乎一样呢」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「嗯嗯……尾巴怎么样？」"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「啊，不，那个地方」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"――不需要再调查了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这几天，自己亲手触摸过，刚才在备用旅馆时"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"已经尝试过很多了……。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「尾巴不是我的专长……。那个怎么样？」"
+							]
+						},
+						{
+							"code": 212,
+							"indent": 0,
+							"parameters": [
+								-1,
+								76,
+								false
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								-1,
+								{
+									"list": [
+										{
+											"code": 14,
+											"parameters": [
+												0,
+												0
+											],
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 14,
+									"parameters": [
+										0,
+										0
+									],
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「咿呀！」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"刚才还被过度使用的尾巴。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬的手像是很熟练一样"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"触碰到根部或者轻轻揉弄尾巴中间部分。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"身体无法控制。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"不仅跳跃，椅子都被冲倒了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"腰软了，四肢着地。"
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								4,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]清彦"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「啊……♡！停下……♡」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"什么是不擅长的，明显已经习惯了尾巴。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"不知不觉间，吸血姬的双手轻轻触碰到尾巴末端的心形部分。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								""
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬用右手指弹尾巴的末端，做好准备。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"然后……轻轻地，嗖。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"像戳头一样轻轻弹了尾巴的末端。"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								30
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								-1,
+								1,
+								false
+							]
+						},
+						{
+							"code": 224,
+							"indent": 0,
+							"parameters": [
+								[
+									255,
+									136,
+									255,
+									102
+								],
+								60,
+								false
+							]
+						},
+						{
+							"code": 212,
+							"indent": 0,
+							"parameters": [
+								-1,
+								33,
+								false
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"\\C[27]「――啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！」"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								30
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Damage3",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那是发不出声音的声音"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"全身仰仗着，瞬间眼前一片白色"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"从尾巴末端开始，从多个地方"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"液体喷涌而出的冲击。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"视野晃动。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"身体抽搐着，发出抽搐声"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长和吸血姬说着什么"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"但她的耳朵一点也听不进去。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那是如此强烈的冲击……尽力调整呼吸。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"即使是她也消耗了体力"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"逐渐失去意识……。"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								90
+							]
+						},
+						{
+							"code": 222,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								3,
+								8,
+								false
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								8,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「可爱……吓到我了」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「尾巴看起来非常敏感呢……"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"如果用药物提高这里的敏感度，可能会无力化。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"只是动一下就会腰软」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「暂时我们会朝这个方向前进。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"主题是『提高敏感度』」"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「我能做的事情就只有这些了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"之后我会向大妖狐报告」"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								3,
+								{
+									"list": [
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 16,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 16,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「谢谢你。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……这是我送给你的服务」"
+							]
+						},
+						{
+							"code": 121,
+							"indent": 0,
+							"parameters": [
+								661,
+								661,
+								0
+							]
+						},
+						{
+							"code": 250,
+							"indent": 0,
+							"parameters": [
+								{
+									"name": "Chest2",
+									"volume": 90,
+									"pitch": 100,
+									"pan": 0
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								3,
+								true
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「是加了男性血液的红茶吧♪"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……很好喝♪\\!不过，你居然能弄到这个"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"这个城市本来就缺乏男性」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「如果你喜欢就好。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……并不是说没有男性在这里」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「我已经问过大妖狐的喜好了。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"还有其他的……。"
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								3,
+								{
+									"list": [
+										{
+											"code": 3,
+											"indent": null
+										},
+										{
+											"code": 4,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": false
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 3,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 4,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 213,
+							"indent": 0,
+							"parameters": [
+								1,
+								3,
+								true
+							]
+						},
+						{
+							"code": 205,
+							"indent": 0,
+							"parameters": [
+								1,
+								{
+									"list": [
+										{
+											"code": 17,
+											"indent": null
+										},
+										{
+											"code": 0
+										}
+									],
+									"repeat": false,
+									"skippable": false,
+									"wait": true
+								}
+							]
+						},
+						{
+							"code": 505,
+							"indent": 0,
+							"parameters": [
+								{
+									"code": 17,
+									"indent": null
+								}
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								30
+							]
+						},
+						{
+							"code": 221,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬轻轻地托起她的身体"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"用柔软的大腿支撑着她的头。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"……连昏迷的脸都看起来可爱。"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"吸血姬"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「（这孩子……我很中意。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"让她成为我的妹妹，也是"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"挺有趣的）」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"店长"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"「（老实说，如果她愿意不恢复原样"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"那就太好了……但是，不可能吧）」"
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"她被吸血姬中意的命运。"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"未来，是要变回人类……男性吗"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"还是作为一个小♀淫魔"
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"永远生活下去呢……？"
+							]
+						},
+						{
+							"code": 355,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.set(\"extra\",true);"
+							]
+						},
+						{
+							"code": 655,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.set(\"inma4\",true);"
+							]
+						},
+						{
+							"code": 655,
+							"indent": 0,
+							"parameters": [
+								"GlobalVars.save();"
+							]
+						},
+						{
+							"code": 230,
+							"indent": 0,
+							"parameters": [
+								90
+							]
+						},
+						{
+							"code": 101,
+							"indent": 0,
+							"parameters": [
+								"",
+								0,
+								0,
+								2
+							]
+						},
+						{
+							"code": 401,
+							"indent": 0,
+							"parameters": [
+								"ED31.变成小孩淫魔归还ED"
+							]
+						},
+						{
+							"code": 111,
+							"indent": 0,
+							"parameters": [
+								0,
+								701,
+								0
+							]
+						},
+						{
+							"code": 242,
+							"indent": 1,
+							"parameters": [
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								624,
+								624,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								625,
+								625,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								626,
+								626,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								627,
+								627,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								621,
+								621,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								622,
+								622,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								656,
+								656,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								660,
+								660,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								661,
+								661,
+								1
+							]
+						},
+						{
+							"code": 121,
+							"indent": 1,
+							"parameters": [
+								701,
+								701,
+								1
+							]
+						},
+						{
+							"code": 129,
+							"indent": 1,
+							"parameters": [
+								51,
+								1,
+								false
+							]
+						},
+						{
+							"code": 129,
+							"indent": 1,
+							"parameters": [
+								1,
+								0,
+								true
+							]
+						},
+						{
+							"code": 201,
+							"indent": 1,
+							"parameters": [
+								0,
+								258,
+								11,
+								12,
+								8,
+								0
+							]
+						},
+						{
+							"code": 230,
+							"indent": 1,
+							"parameters": [
+								60
+							]
+						},
+						{
+							"code": 222,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 411,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 354,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 1,
+							"parameters": []
+						},
+						{
+							"code": 412,
+							"indent": 0,
+							"parameters": []
+						},
+						{
+							"code": 0,
+							"indent": 0,
+							"parameters": []
+						}
+					],
+					"moveFrequency": 3,
+					"moveRoute": {
+						"list": [
+							{
+								"code": 0,
+								"parameters": []
+							}
+						],
+						"repeat": true,
+						"skippable": false,
+						"wait": false
+					},
+					"moveSpeed": 3,
+					"moveType": 0,
+					"priorityType": 0,
+					"stepAnime": false,
+					"through": false,
+					"trigger": 3,
+					"walkAnime": true
+				}
+			],
+			"x": 0,
+			"y": 0
+		},
+		null,
+		null,
+		null,
+		null,
+		null
+	]
+}
