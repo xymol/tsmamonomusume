@@ -350,8 +350,8 @@ var $plugins =
       "ImageZoomScale": "1.3",
       "ImageMovePixel": "10\r"
     }
-  }
-{
+  },
+  {
   "name":"UCHU_MobileOperation",
     "status":true,
     "description":"スマホ操作用プラグイン。横持ち/縦持ちに対応した仮想ボタン、\r\nタッチ操作の方法を追加拡張し、スマホプレイを快適にします。",
